@@ -119,7 +119,7 @@ Students will progressively build and evaluate their system, applying software e
 #### 🔬 **Lab Session**
 | Time | Activity |
 |:-----|:---------|
-| **10:30 AM–3:00 PM** | **🧪 Lab/Self-study** (with lunch break)<br/>• Access BioHPC CPU nodes<br/>• Set up Ollama with a provided model (e.g., Gemma 3)<br/>• Develop Python scripts to:<br/>  - Call the local Ollama API<br/>  - Process the "GeneTuring" dataset<br/>  - Log prompts, responses, and basic evaluation scores to a local MLflow instance<br/>• Initial function wrapping and basic code structure |
+| **10:30 AM–2:00 PM** | **🧪 Lab/Self-study** (with lunch break)<br/>• Access BioHPC CPU nodes<br/>• Set up Ollama with a provided model (e.g., Gemma 3)<br/>• Develop Python scripts to:<br/>  - Call the local Ollama API<br/>  - Process the "GeneTuring" dataset<br/>  - Log prompts, responses, and basic evaluation scores to a local MLflow instance<br/>• Initial function wrapping and basic code structure |
 
 #### 🕒 **Afternoon Session**
 | Time | Session | Instructor |
