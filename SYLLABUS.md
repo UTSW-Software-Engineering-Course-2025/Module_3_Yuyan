@@ -1,10 +1,5 @@
-# 🧬 LLMOps: A Practical Introduction to Software Engineering with LLMs
-
----
-
-## Syllabus
-
-### **Course Details**
+# Syllabus
+## 🧬 LLMOps: A Practical Introduction to Software Engineering with LLMs
 
 **Dates:** June 2-5, 2025 
 
@@ -13,25 +8,14 @@
 - **Monday:** G9.250A
 - **Tuesday - Thursday:** NL03.120
 
----
-
-## Table of Contents  
-- [Instructors & Contact Info](#-instructors--contact-info)
-- [Course Overview](#-course-overview)
-- [Learning Objectives](#-learning-objectives)
-- [Tools & Infrastructure](#️-tools--infrastructure)
-- [Project Framework: BioLLM Explorer](#-project-framework-biollm-explorer)
-- [Daily Schedule](#-daily-schedule)
+**[Daily Schedule](#-daily-schedule)**
   - [Day 1: Local LLMs & Test Harness Setup](#-day-1-monday-local-llms-test-harness-setup-basic-benchmarking--devops-intro)
   - [Day 2: APIs & Structured Outputs](#-day-2-tuesday-proprietary-apis-structured-outputs-advanced-benchmarking-gene-hop--evaluation)
   - [Day 3: Tool Use & RAG Concepts](#️-day-3-wednesday-tool-use-rag-concepts--code-interpreter)
   - [Day 4: Refinement & Demos](#-day-4-thursday-refinement-advanced-integration-documentation--demos)
-- [Grading Rubric](#-grading-rubric-20-points-total)
-- [Implementation Note](#️-implementation-note)
-- [Ethics & Data Privacy](#-ethics--data-privacy)
-- [Dataset Information](#-dataset-information)
-- [Pre-Readings & Preparation](#-pre-readings--preparation-optional-but-encouraged)
-- [Project Guide](#-project-guide)
+
+**[Grading Rubric](#-grading-rubric-20-points-total)**
+
 
 ## 👨‍🏫 Instructors & Contact Info
 
