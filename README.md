@@ -17,9 +17,9 @@ We will focus on re-implementing the GeneGPT paper from the NCBI.
 | Day | Task | Description |
 | --- | --- | --- |
 | 1 | [Ollama + GeneTuring](day1/README.md)  | Setup the initial harness code, tracking on one model, dataset |
-| 2 | + OpenAI + GeneHop | Add new model and dataset, explore prompting strategies|
-| 3 | + Tools  | Improve model performance with domain specific tool use |
-| 4 | Hack away | Refine the code base and add enchancements that you choose/present |
+| 2 | [+ OpenAI + GeneHop](day2/README.md) | Add new model and dataset, explore prompting strategies|
+| 3 | [+ Tools](day3/README.md)  | Improve model performance with domain specific tool use |
+| 4 | [Hack away](day4/README.md) | Refine the code base and add enchancements that you choose/present |
 
 ## Setup
 
