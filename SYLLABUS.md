@@ -13,24 +13,24 @@
 
 ---
 
-## 📑 Table of Contents
+## �� Table of Contents
 
-- [Instructors & Contact Info](#instructors--contact-info)
-- [Course Overview](#course-overview)
-- [Learning Objectives](#learning-objectives)
-- [Tools & Infrastructure](#tools--infrastructure)
-- [Project Framework: BioLLM Explorer](#project-framework-biollm-explorer)
-- [Daily Schedule](#daily-schedule)
-  - [Day 1: Local LLMs & Test Harness Setup](#day-1-monday-local-llms-test-harness-setup-basic-benchmarking--devops-intro-room-g9250a)
-  - [Day 2: APIs & Structured Outputs](#day-2-tuesday-proprietary-apis-structured-outputs-advanced-benchmarking-gene-hop--evaluation-room-nl03120)
-  - [Day 3: Tool Use & RAG Concepts](#day-3-wednesday-tool-use-rag-concepts--code-interpreter-room-nl03120)
-  - [Day 4: Refinement & Demos](#day-4-thursday-refinement-advanced-integration-documentation--demos-room-nl03120)
-- [Grading Rubric](#grading-rubric-20-points-total)
-- [Implementation Note](#implementation-note)
-- [Ethics & Data Privacy](#ethics--data-privacy)
-- [Dataset Information](#dataset-information)
-- [Pre-Readings & Preparation](#pre-readings--preparation-optional-but-encouraged)
-- [Project Guide](#project-guide)
+- [Instructors & Contact Info](#-instructors--contact-info)
+- [Course Overview](#-course-overview)
+- [Learning Objectives](#-learning-objectives)
+- [Tools & Infrastructure](#️-tools--infrastructure)
+- [Project Framework: BioLLM Explorer](#-project-framework-biollm-explorer)
+- [Daily Schedule](#-daily-schedule)
+  - [Day 1: Local LLMs & Test Harness Setup](#-day-1-monday-local-llms-test-harness-setup-basic-benchmarking--devops-intro)
+  - [Day 2: APIs & Structured Outputs](#-day-2-tuesday-proprietary-apis-structured-outputs-advanced-benchmarking-gene-hop--evaluation)
+  - [Day 3: Tool Use & RAG Concepts](#️-day-3-wednesday-tool-use-rag-concepts--code-interpreter)
+  - [Day 4: Refinement & Demos](#-day-4-thursday-refinement-advanced-integration-documentation--demos)
+- [Grading Rubric](#-grading-rubric-20-points-total)
+- [Implementation Note](#️-implementation-note)
+- [Ethics & Data Privacy](#-ethics--data-privacy)
+- [Dataset Information](#-dataset-information)
+- [Pre-Readings & Preparation](#-pre-readings--preparation-optional-but-encouraged)
+- [Project Guide](#-project-guide)
 
 ---
 
