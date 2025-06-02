@@ -183,6 +183,6 @@ Students will primarily work with benchmark datasets like **"GeneTuring" and "Ge
 
 ---
 
-## Project Guide
+## Project Outline
 
-For detailed information about the project, please see the [Project Overview Guide](PROJECT_GUIDE.md).
+For detailed information about the project, please see the [Project Overview Guide](README.md).
