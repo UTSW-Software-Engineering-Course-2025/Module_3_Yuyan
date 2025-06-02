@@ -38,7 +38,7 @@
 <a id="course-overview"></a>
 **Course Overview**
 
-This module provides a practical, hands-on introduction to large language models (LLMs) in biomedical research and software development. Students will incrementally build a single project—a **BioLLM Explorer (inspired by concepts like GeneGPT)**—throughout the four days. This involves setting up local LLM serving (Ollama on BioHPC), interacting with local and proprietary LLM APIs, implementing tool use for accessing external biomedical data (e.g., NCBI), and applying sound software engineering practices (version control, testing, MLflow for experiment tracking, modular design, documentation, and evaluation). The module emphasizes independent problem-solving with a focus on building a robust "test harness" and iteratively developing capabilities.
+This module provides a practical, hands-on introduction to large language models (LLMs) in biomedical research and software development. Students will incrementally build a single project—a **"BioLLM Explorer" (inspired by concepts like GeneGPT)**—throughout the four days. This involves setting up local LLM serving (Ollama on BioHPC), interacting with local and proprietary LLM APIs, implementing tool use for accessing external biomedical data (e.g., NCBI), and applying sound software engineering practices (version control, testing, MLflow for experiment tracking, modular design, documentation, and evaluation). The module emphasizes independent problem-solving with a focus on building a robust "test harness" and iteratively developing capabilities.
 
 <a id="learning-objectives"></a>
 **Learning Objectives**

@@ -1,0 +1,20 @@
+[project]
+name = "module-3-materials"
+description = "Benchmarking and evaluating LLMs with principled software engineering techniques. Re-implementation of the GeneGPT paper."
+authors = ["Your Name <your.email@example.com>"]
+requires-python = ">=3.12"
+
+[tool.black]
+line-length = 88
+skip-string-normalization = false
+
+[tool.isort]
+profile = "black"
+
+[tool.mypy]
+python_version = "3.12"
+ignore_missing_imports = true
+strict = true
+show_error_codes = true
+pretty = true
+
