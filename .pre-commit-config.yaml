@@ -1,19 +1,19 @@
-repos:
-  # 1. Sort imports
-  - repo: https://github.com/pycqa/isort
-    rev: 6.0.1
-    hooks:
-      - id: isort
-        language: system         
-        files: \.py$
-        additional_dependencies: []
+# repos:
+#   # 1. Sort imports
+#   - repo: https://github.com/pycqa/isort
+#     rev: 6.0.1
+#     hooks:
+#       - id: isort
+#         language: system         
+#         files: \.py$
+#         additional_dependencies: []
 
-  # 2. Format with black
-  - repo: https://github.com/psf/black
-    rev: 24.4.2
-    hooks:
-      - id: black
-        language: system         
+#   # 2. Format with black
+#   - repo: https://github.com/psf/black
+#     rev: 24.4.2
+#     hooks:
+#       - id: black
+#         language: system         
 
   # # 3. Lint with flake8
   # - repo: https://github.com/pycqa/flake8

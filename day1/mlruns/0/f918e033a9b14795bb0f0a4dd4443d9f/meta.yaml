@@ -1,0 +1,15 @@
+artifact_uri: file:///project/GCRB/Hon_lab/s440914/MODULE_3_MATERIALS/day1/mlruns/0/f918e033a9b14795bb0f0a4dd4443d9f/artifacts
+end_time: 1749151457185
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f918e033a9b14795bb0f0a4dd4443d9f
+run_name: geneturing-eval
+run_uuid: f918e033a9b14795bb0f0a4dd4443d9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749151427906
+status: 4
+tags: []
+user_id: s440914

@@ -1,31 +1,56 @@
-# Module 3: Applying/exploiting Large Language Models
+# GeneTuring & GeneHop with OpenAI and NCBI API
 
-This week we will be learning about how to benchmark and evaluate LLMs with principled software engineering techniques while learning about the complexities of distributed systems.
+This project demonstrates a pipeline that combines biomedical APIs and large language models (LLMs) to perform gene-related question answering, verification, and annotation assistance.
 
-[__Detailed Syllabus__](SYLLABUS.md)
+## 🔍 What This Project Does
 
-## Task
+We built two major tools:
 
-We will focus on re-implementing the GeneGPT paper from the NCBI.
-* [Paper](https://academic.oup.com/bioinformatics/article/40/2/btae075/7606338)
-* [Code](https://github.com/ncbi/GeneGPT)
+### 🧠 1. GeneTuring (LLM-Based QA & Verification)
+- **Input**: A dataset of biomedical question-answer pairs involving gene knowledge.
+- **Function**: Uses OpenAI's LLM (`gpt-4`) to:
+  - Predict gene-related answers
+  - Check the correctness of given answers
+  - Explain or rephrase answers in natural language
+- **LLM Tasks**:
+  - Zero-shot answer generation
+  - Explanation generation
+  - Binary classification (`success = True/False`)
 
-![GeneGPT System Description](img/genegpt.png)
+### 🔄 2. GeneHop (NCBI + LLM Hybrid)
+- **Input**: A gene name (may be outdated or alias)
+- **Function**: 
+  - Calls **NCBI Gene API** to find the current official gene symbol and related metadata
+  - Uses OpenAI’s LLM to interpret and refine ambiguous results
+  - Optionally compares predicted vs. gold answer for downstream QA evaluation
+- **Features**:
+  - NCBI Entrez API usage with fallback matching
+  - LLM handles unrecognized or messy gene symbols
+  - Outputs enriched information like gene description, aliases, and Entrez ID
 
-## Timeline
+---
 
-| Day | Task | Description |
-| --- | --- | --- |
-| 1 | [Ollama + GeneTuring](day1/README.md)  | Setup the initial harness code, tracking on one model, dataset |
-| 2 | [+ OpenAI + GeneHop](day2/README.md) | Add new model and dataset, explore prompting strategies|
-| 3 | [+ Tools](day3/README.md)  | Improve model performance with domain specific tool use |
-| 4 | [Hack away](day4/README.md) | Refine the code base and add enchancements that you choose/present |
+## ✅ Highlights
+
+- 🔁 **NCBI API Integration** for reliable biomedical knowledge
+- 🤖 **OpenAI LLM** for natural language understanding and explanation
+- 🧪 **Cosine similarity computation** using mean-pooled BERT-style embeddings for answer validation
+- 🧹 Non-NCBI versions implemented 
+- 🔧 Reproducible setup with `mlflow` and logging enabled for experiments
+
+---
 
 ## Setup
 
 ### Requirements
 
+- `openai`
+- `transformers`
+- `torch` or `numpy` + `sklearn` (for no-torch version)
+- `pandas`, `tqdm`
+- `mlflow` (optional, for experiment tracking)
 ```bash
+
 git clone <this repo>
 cd Module_3_materials
 python -m venv venv

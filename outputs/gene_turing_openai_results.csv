@@ -1,0 +1,456 @@
+id,task,question,answer,prediction,score,success
+0,Gene alias,What is the official gene symbol of LMP10?,PSMB10,PSMB10,1.0,True
+1,Gene alias,What is the official gene symbol of SNAT6?,SLC38A6,SLC38A6,1.0,True
+2,Gene alias,What is the official gene symbol of IMD20?,FCGR3A,The official gene symbol of IMD20 is PSMB10.,0.0,False
+3,Gene alias,What is the official gene symbol of C20orf195?,FNDC11,TMEM230,0.0,False
+4,Gene alias,What is the official gene symbol of CXorf40B?,EOLA2,FAM19A4,0.0,False
+5,Gene alias,What is the official gene symbol of QSCN6L1?,QSOX2,QSCN6L1 is an alias for the official gene symbol SQSTM1.,0.0,False
+6,Gene alias,What is the official gene symbol of OR11-86?,OR10A2,OR11H6,0.0,False
+7,Gene alias,What is the official gene symbol of NPAP60L?,NUP50,NPAP1,0.0,False
+8,Gene alias,What is the official gene symbol of AF10?,MLLT10,MLLT10,1.0,True
+9,Gene alias,What is the official gene symbol of bMRP63?,MRPL57,MRPS31,0.0,False
+10,Gene alias,What is the official gene symbol of HsT1192?,SYT4,TERT,0.0,False
+11,Gene alias,What is the official gene symbol of ZNF482?,ZBTB6,ZNF482,0.0,False
+12,Gene alias,What is the official gene symbol of PTH1?,PTH,PTH1 is not an official gene symbol. The official gene symbol for parathyroid hormone is PTH.,1.0,True
+13,Gene alias,What is the official gene symbol of AGTIL?,ASIP,"I could not find an official gene symbol for ""AGTIL"" in the NCBI database. Please check if there is a typographical error or provide additional context.",0.0,False
+14,Gene alias,What is the official gene symbol of LEP9?,LCE2A,I could not find an official gene symbol for LEP9 in NCBI. Please provide more context or check if the gene name is correct.,0.0,False
+15,Gene alias,What is the official gene symbol of SEP3?,SEPTIN3,SEPTIN3,1.0,True
+16,Gene alias,What is the official gene symbol of FFDD3?,TWIST2,I could not find an official gene symbol for FFDD3 in the NCBI database. It may be an alias or an incorrect/obsolete name. Please provide additional context or check the name.,0.0,False
+17,Gene alias,What is the official gene symbol of C6orf186?,METTL24,CFAP206,0.0,False
+18,Gene alias,What is the official gene symbol of hCAP?,RNGTT,CAMP,0.0,False
+19,Gene alias,What is the official gene symbol of CKBBP1?,RNF7,SEPTIN4,0.0,False
+20,Gene alias,What is the official gene symbol of TFA?,F3,TF,0.0,False
+21,Gene alias,What is the official gene symbol of BMSC-MCP?,SLC25A33,CCL23,0.0,False
+22,Gene alias,What is the official gene symbol of PCH3?,PCLO,TSEN54,0.0,False
+23,Gene alias,What is the official gene symbol of OR11-75?,OR56A1,OR11H7P,0.0,False
+24,Gene alias,What is the official gene symbol of RBAP1?,E2F1,RBBP1,0.0,False
+25,Gene alias,What is the official gene symbol of DCSCRIPT?,ZNF366,ZNF366,1.0,True
+26,Gene alias,What is the official gene symbol of 15-LOX?,ALOX15,ALOX15,1.0,True
+27,Gene alias,What is the official gene symbol of CT116?,LYPD6B,SLC25A16,0.0,False
+28,Gene alias,What is the official gene symbol of PKCL?,PRKCH,PRKCQ,0.0,False
+29,Gene alias,What is the official gene symbol of SGEF?,ARHGEF26,ARHGEF26,1.0,True
+30,Gene alias,What is the official gene symbol of CTGLF6?,AGAP9,KLHL12,0.0,False
+31,Gene alias,What is the official gene symbol of FAP9?,IFT22,PSMB8,0.0,False
+32,Gene alias,What is the official gene symbol of MPS4B?,GLB1,ARSB,0.0,False
+33,Gene alias,What is the official gene symbol of LSDMCA2?,COX7B,The official gene symbol of LSDMCA2 is CYP4F22.,0.0,False
+34,Gene alias,What is the official gene symbol of PLK-5?,PLK5,PLK5,1.0,True
+35,Gene alias,What is the official gene symbol of C20orf86?,ANKRD60,SAMHD1,0.0,False
+36,Gene alias,What is the official gene symbol of GalNAc-T4?,POC1B-GALNT4,GALNT4,0.0,False
+37,Gene alias,What is the official gene symbol of NEDCHS?,INTS8,NSUN7,0.0,False
+38,Gene alias,What is the official gene symbol of PCPB?,CPB2,PCBP1,0.0,False
+39,Gene alias,What is the official gene symbol of PFDN3?,VBP1,PFDN3,0.0,False
+40,Gene alias,What is the official gene symbol of TSH2B?,H2BC1,HIST1H2BA,0.0,False
+41,Gene alias,What is the official gene symbol of RSG1?,CPLANE2,RSG1,0.0,False
+42,Gene alias,What is the official gene symbol of M12.219?,ADAMDEC1,HLA-DQA1,0.0,False
+43,Gene alias,What is the official gene symbol of beta3Gn-T8?,B3GNT8,B3GNT8,1.0,True
+44,Gene alias,What is the official gene symbol of ASV?,SRC,"Based on NCBI results, there is no official gene symbol ""ASV."" If you have a full gene name or context, please provide more details.",0.0,False
+45,Gene alias,What is the official gene symbol of C11orf27?,UBTFL1,PRR26,0.0,False
+46,Gene alias,What is the official gene symbol of GCS1?,MOGS,GCS1,0.0,False
+47,Gene alias,What is the official gene symbol of FAM214B?,ATOSB,FAM214B,0.0,False
+48,Gene alias,What is the official gene symbol of CTTNBP1?,SHANK2,CTTNBP2NL,0.0,False
+49,Gene alias,What is the official gene symbol of PTP-SL?,PTPRR,PTPN5,0.0,False
+50,Gene disease association,What are genes related to Hemolytic anemia due to phosphofructokinase deficiency?,PFKL,PFKM,0.0,False
+51,Gene disease association,What are genes related to Distal renal tubular acidosis?,"SLC4A1, ATP6V0A4","The genes related to Distal renal tubular acidosis include SLC4A1, ATP6V1B1, and ATP6V0A4.",0.0,False
+52,Gene disease association,What are genes related to Pseudohypoparathyroidism Ic?,GNAS,GNAS is the primary gene related to Pseudohypoparathyroidism type Ic.,0.0,False
+53,Gene disease association,What are genes related to Glycine N-methyltransferase deficiency?,GNMT,The main gene related to Glycine N-methyltransferase deficiency is GNMT.,0.0,False
+54,Gene disease association,What are genes related to Meesmann corneal dystrophy?,"KRT12, KRT3",Genes related to Meesmann corneal dystrophy are KRT3 and KRT12.,0.0,False
+55,Gene disease association,What are genes related to Chronic atrial and intestinal dysrhythmia?,SGO1,Genes related to Chronic atrial and intestinal dysrhythmia include SGOL1.,0.0,False
+56,Gene disease association,What are genes related to Sensorineural deafness with mild renal dysfunction?,BSND,Genes related to Sensorineural deafness with mild renal dysfunction include CLDN14 and MYO1A.,0.0,False
+57,Gene disease association,What are genes related to Bile acid malabsorption?,"SLC10A2, SLC51B","Genes related to bile acid malabsorption include SLC10A2, CYP7A1, and NR1H4.",0.0,False
+58,Gene disease association,What are genes related to Immunodeficiency due to defect in MAPBP-interacting protein?,LAMTOR2,The gene related to Immunodeficiency due to defect in MAPBP-interacting protein is MABPIP (also known as COMMD10).,0.0,False
+59,Gene disease association,What are genes related to Currarino syndrome?,MNX1,HLXB9 (also known as MNX1) is the primary gene related to Currarino syndrome.,0.0,False
+60,Gene disease association,What are genes related to Intervertebral disc disease?,COL9A3,"Genes related to Intervertebral disc disease include COL1A1, COL9A2, COL11A1, VDR, MMP2, MMP3, and ASPN.",0.0,False
+61,Gene disease association,What are genes related to Otofaciocervical syndrome?,"EYA1, PAX1",The genes related to Otofaciocervical syndrome are EYA1 and PAX1.,0.0,False
+62,Gene disease association,What are genes related to Brody myopathy?,ATP2A1,The gene related to Brody myopathy is ATP2A1.,0.0,False
+63,Gene disease association,What are genes related to Neurodevelopmental disorder with gait disturbance?,TCEAL1,Genes related to Neurodevelopmental disorder with gait disturbance include L1CAM and CTNNB1.,0.0,False
+64,Gene disease association,What are genes related to Mitochondrial DNA depletion syndrome 4A Alpers type?,POLG,POLG,1.0,True
+65,Gene disease association,What are genes related to Nephropathy due to CFHR5 deficiency?,CFHR5,"CFHR5, CFH",0.0,False
+66,Gene disease association,What are genes related to Achromatopsia?,"CNGA3, CNGB3, GNAT2, PDE6H, ATF6","Genes related to Achromatopsia include CNGA3, CNGB3, GNAT2, PDE6C, PDE6H, and ATF6.",0.0,False
+67,Gene disease association,What are genes related to Hyperphenylalaninemia?,"PTS, GCH1, QDPR, PCBD1, DNAJC12, PAH","Genes related to Hyperphenylalaninemia include PAH, GCH1, PTS, QDPR, and PCBD1.",0.0,False
+68,Gene disease association,What are genes related to EDICT syndrome?,MIR184,Genes related to EDICT syndrome include NKX2-1.,0.0,False
+69,Gene disease association,What are genes related to Gastrointestinal defects and immunodeficiency syndrome?,"PI4KA, TTC7A",TTC7A,0.0,False
+70,Gene disease association,What are genes related to Cleft palate with ankyloglossia?,TBX22,TBX22,1.0,True
+71,Gene disease association,What are genes related to Neurodevelopmental disorder with nonspecific brain abnormalities and with or without seizures?,DLL1,"Genes related to Neurodevelopmental disorder with nonspecific brain abnormalities and with or without seizures include CHKA. (OMIM: 618831, NCBI GeneID: 1129)",0.0,False
+72,Gene disease association,What are genes related to Spondylocarpotarsal synostosis syndrome?,FLNB,The gene related to Spondylocarpotarsal synostosis syndrome is FLNB.,0.0,False
+73,Gene disease association,What are genes related to Haim-Munk syndrome?,CTSC,The gene related to Haim-Munk syndrome is CTSC.,0.0,False
+74,Gene disease association,What are genes related to Sialidosis?,NEU1,The primary gene related to Sialidosis is NEU1.,0.0,False
+75,Gene disease association,What are genes related to Siddiqi syndrome?,FITM2,The gene related to Siddiqi syndrome is NSUN2.,0.0,False
+76,Gene disease association,What are genes related to Corneal fleck dystrophy?,PIKFYVE,The gene related to Corneal fleck dystrophy is PIKFYVE.,0.0,False
+77,Gene disease association,What are genes related to Liver failure?,TRMU,"Genes related to liver failure include **ABCB11, ATP7B, SERPINA1, FAH, CPS1, OTC, SLC25A13, ASS1, HFE, and CYP7B1**, among others.",0.0,False
+78,Gene disease association,What are genes related to Proteasome-associated autoinflammatory syndrome?,"PSMB9, PSMG2, POMP, PSMB10","The genes related to Proteasome-associated autoinflammatory syndrome are PSMB8, PSMB9, and PSMB10.",0.0,False
+79,Gene disease association,What are genes related to Orofaciodigital syndrome XIV?,C2CD3,Genes related to Orofaciodigital syndrome XIV include C2CD3.,0.0,False
+80,Gene disease association,What are genes related to Trichoepithelioma?,CYLD,"CYLD, PTCH1, and TRIM29 are genes related to Trichoepithelioma.",0.0,False
+81,Gene disease association,What are genes related to Medullary thyroid carcinoma?,RET,"RET, HRAS, KRAS, NRAS, MET, and BRAF.",0.0,False
+82,Gene disease association,What are genes related to Type diabetes mellitus?,"HNF1B, IL6, GPD2, HMGA1, IRS1, NEUROD1, IL6","Genes related to Type 1 diabetes mellitus include HLA-DRB1, INS, PTPN22, and IL2RA. Genes related to Type 2 diabetes mellitus include TCF7L2, PPARG, KCNJ11, and SLC30A8.",0.0,False
+83,Gene disease association,What are genes related to Buschke-Ollendorff syndrome?,LEMD3,The genes related to Buschke-Ollendorff syndrome are LEMD3 and possibly FBN1.,0.0,False
+84,Gene disease association,What are genes related to Vascular malformation?,ELMO2,"Genes related to vascular malformation include TEK, RASA1, CCM1 (KRIT1), CCM2, CCM3 (PDCD10), ENG, ACVRL1, GNAQ, PIK3CA, and EPHB4.",0.0,False
+85,Gene disease association,What are genes related to Acrocallosal syndrome?,KIF7,"Genes related to Acrocallosal syndrome include KIF7, GLI3, and CCDC88C.",0.0,False
+86,Gene disease association,What are genes related to Congenital disorder of deglycosylation?,"NGLY1, MAN2C1",NGLY1,0.0,False
+87,Gene disease association,What are genes related to Spinal muscular atrophy with congenital bone fractures?,"TRIP4, ASCC1",Genes related to Spinal muscular atrophy with congenital bone fractures include ASCC1 and UBA1.,0.0,False
+88,Gene disease association,What are genes related to B-cell immunodeficiency?,TOP2B,"Genes related to B-cell immunodeficiency include BTK, IGHM, IGLL1, CD19, CD79A, CD79B, PIK3CD, PIK3R1, BLNK, and TACI (TNFRSF13B).",0.0,False
+89,Gene disease association,What are genes related to Immunodeficiency with inflammatory disease and congenital thrombocytopenia?,ARPC1B,The genes related to Immunodeficiency with inflammatory disease and congenital thrombocytopenia are WIPF1 and WAS.,0.0,False
+90,Gene disease association,What are genes related to Split-foot malformation with mesoaxial polydactyly?,MAP3K20,Genes related to Split-foot malformation with mesoaxial polydactyly include TP63.,0.0,False
+91,Gene disease association,What are genes related to Pigmented nodular adrenocortical disease?,"PRKAR1A, PDE11A, PDE8B","Genes related to Pigmented nodular adrenocortical disease include PRKAR1A, PDE11A, and PDE8B.",0.0,False
+92,Gene disease association,What are genes related to Superoxide dismutase?,SOD3,"Genes related to Superoxide dismutase include SOD1, SOD2, and SOD3.",0.0,False
+93,Gene disease association,What are genes related to Leukoencephalopathy with dystonia and motor neuropathy?,SCP2,The gene related to Leukoencephalopathy with dystonia and motor neuropathy is EARS2.,0.0,False
+94,Gene disease association,What are genes related to Intracranial hemorrhage in brain cerebrovascular malformations?,IL6,"Genes related to intracranial hemorrhage in brain cerebrovascular malformations include KRIT1 (CCM1), CCM2, PDCD10 (CCM3), ENG, ACVRL1, and RASA1.",0.0,False
+95,Gene disease association,What are genes related to Multiple system atrophy?,COQ2,"Genes related to Multiple System Atrophy include SNCA, COQ2, MAPT, GBA, and PRNP.",0.0,False
+96,Gene disease association,What are genes related to Cone dystrophy?,"PDE6C, GUCA1A","Genes related to Cone dystrophy include GUCY2D, GUCA1A, ABCA4, PDE6C, CNGB3, OPN1LW, OPN1MW, and PRPH2.",0.0,False
+97,Gene disease association,What are genes related to Holt-Oram syndrome?,TBX5,TBX5 is the primary gene related to Holt-Oram syndrome.,0.0,False
+98,Gene disease association,What are genes related to Lichtenstein-Knorr syndrome?,SLC9A1,The gene related to Lichtenstein-Knorr syndrome is CLCN2.,0.0,False
+99,Gene disease association,What are genes related to Ablepharon-macrostomia syndrome?,TWIST2,The gene related to Ablepharon-macrostomia syndrome is TWIST2.,0.0,False
+100,Gene location,Which chromosome is FAM66D gene located on human genome?,chr8,Chromosome 8.,1.0,True
+101,Gene location,Which chromosome is TTTY7 gene located on human genome?,chrY,The TTTY7 gene is located on the Y chromosome in the human genome.,1.0,True
+102,Gene location,Which chromosome is LA16c-329F2.2 gene located on human genome?,chr16,Chromosome 16,1.0,True
+103,Gene location,Which chromosome is RGS16 gene located on human genome?,chr1,Chromosome 1,1.0,True
+104,Gene location,Which chromosome is FOXL2NB gene located on human genome?,chr3,Chromosome 3.,1.0,True
+105,Gene location,Which chromosome is RP11-17A4.3 gene located on human genome?,chr8,Chromosome 1,0.0,False
+106,Gene location,Which chromosome is EML3 gene located on human genome?,chr11,Chromosome 19,0.0,False
+107,Gene location,Which chromosome is LPAR2 gene located on human genome?,chr19,The LPAR2 gene is located on chromosome 19 in the human genome.,1.0,True
+108,Gene location,Which chromosome is ENSG10010137169.1 gene located on human genome?,chr4,ENSG10010137169.1 is located on chromosome 11 in the human genome.,0.0,False
+109,Gene location,Which chromosome is AC018712.2 gene located on human genome?,chr2,Chromosome 2,1.0,True
+110,Gene location,Which chromosome is RRS1 gene located on human genome?,chr8,Chromosome 8.,1.0,True
+111,Gene location,Which chromosome is LINC02599 gene located on human genome?,chr8,LINC02599 is located on chromosome 2 of the human genome.,0.0,False
+112,Gene location,Which chromosome is ZNF117 gene located on human genome?,chr7,Chromosome 7,1.0,True
+113,Gene location,Which chromosome is RP11-829H16.3 gene located on human genome?,chr14,RP11-829H16.3 is located on chromosome 10 in the human genome.,0.0,False
+114,Gene location,Which chromosome is RN7SKP265 gene located on human genome?,chr3,Chromosome 1,0.0,False
+115,Gene location,Which chromosome is RP11-1102P22.1 gene located on human genome?,chr16,Chromosome 5,0.0,False
+116,Gene location,Which chromosome is AC018892.8 gene located on human genome?,chr2,Chromosome 2,1.0,True
+117,Gene location,Which chromosome is RP11-255A11.4 gene located on human genome?,chr9,Chromosome 2,0.0,False
+118,Gene location,Which chromosome is NPTN gene located on human genome?,chr15,The NPTN gene is located on chromosome 15 in the human genome.,1.0,True
+119,Gene location,Which chromosome is RP11-123M21.2 gene located on human genome?,chr12,Chromosome 11,0.0,False
+120,Gene location,Which chromosome is ZNF574 gene located on human genome?,chr19,Chromosome 19,1.0,True
+121,Gene location,Which chromosome is RNU6-1143P gene located on human genome?,chr11,RNU6-1143P is located on chromosome 3 in the human genome.,0.0,False
+122,Gene location,Which chromosome is RP11-303E16.8 gene located on human genome?,chr16,Chromosome 3,0.0,False
+123,Gene location,Which chromosome is SCO2 gene located on human genome?,chr22,Chromosome 22.,1.0,True
+124,Gene location,Which chromosome is ERCC8 gene located on human genome?,chr5,Chromosome 5.,1.0,True
+125,Gene location,Which chromosome is ENSG10010137820.1 gene located on human genome?,chr2,There is no record of ENSG10010137820.1 as a valid Ensembl or NCBI gene ID in the human genome. Please check the ID for accuracy.,0.0,False
+126,Gene location,Which chromosome is RP11-215H18.5 gene located on human genome?,chr11,Chromosome 11,1.0,True
+127,Gene location,Which chromosome is RPS26P3 gene located on human genome?,chr9,Chromosome 17,0.0,False
+128,Gene location,Which chromosome is RN7SL465P gene located on human genome?,chr6,Chromosome 4.,0.0,False
+129,Gene location,Which chromosome is TRGC2 gene located on human genome?,chr7,Chromosome 7,1.0,True
+130,Gene location,Which chromosome is RN7SL689P gene located on human genome?,chr5,Chromosome 15,0.0,False
+131,Gene location,Which chromosome is CTB-180A7.6 gene located on human genome?,chr19,Chromosome 1,0.0,False
+132,Gene location,Which chromosome is MTND2P25 gene located on human genome?,chrX,MTND2P25 is located on chromosome 1.,0.0,False
+133,Gene location,Which chromosome is MTND6P21 gene located on human genome?,chr21,MTND6P21 is located on chromosome 6 in the human genome.,0.0,False
+134,Gene location,Which chromosome is UBE2D4 gene located on human genome?,chr7,Chromosome 7.,1.0,True
+135,Gene location,Which chromosome is SRD5A1P1 gene located on human genome?,chrX,Chromosome 6,0.0,False
+136,Gene location,Which chromosome is CTD-2272D18.2 gene located on human genome?,chr8,Chromosome 12,0.0,False
+137,Gene location,Which chromosome is SNORD4B gene located on human genome?,chr17,Chromosome 5,0.0,False
+138,Gene location,Which chromosome is AC006042.8 gene located on human genome?,chr7,Chromosome 15,0.0,False
+139,Gene location,Which chromosome is SLAIN2 gene located on human genome?,chr4,Chromosome 4,1.0,True
+140,Gene location,Which chromosome is RP11-173H9.2 gene located on human genome?,chr2,Chromosome 22.,0.0,False
+141,Gene location,Which chromosome is AC093802.1 gene located on human genome?,chr2,Chromosome 19,0.0,False
+142,Gene location,Which chromosome is RP4-612B18.1 gene located on human genome?,chr1,Chromosome 1,1.0,True
+143,Gene location,Which chromosome is AKIRIN1P2 gene located on human genome?,chrX,AKIRIN1P2 is located on chromosome 6 of the human genome.,0.0,False
+144,Gene location,Which chromosome is SIGLEC19P gene located on human genome?,chr19,SIGLEC19P is located on chromosome 19 of the human genome.,1.0,True
+145,Gene location,Which chromosome is RP11-179D22.1 gene located on human genome?,chr9,Chromosome 7,0.0,False
+146,Gene location,Which chromosome is RPS3AP46 gene located on human genome?,chr14,The RPS3AP46 gene is located on chromosome 11 in the human genome.,0.0,False
+147,Gene location,Which chromosome is IFRD1 gene located on human genome?,chr7,Chromosome 7.,1.0,True
+148,Gene location,Which chromosome is RP11-1299A16.3 gene located on human genome?,chr4,Chromosome 4,1.0,True
+149,Gene location,Which chromosome is OR51H2P gene located on human genome?,chr11,Chromosome 11,1.0,True
+150,Human genome DNA aligment,Align the DNA sequence to the human genome:ATTCTGCCTTTAGTAATTTGATGACAGAGACTTCTTGGGAACCACAGCCAGGGAGCCACCCTTTACTCCACCAACAGGTGGCTTATATCCAATCTGAGAAAGAAAGAAAAAAAAAAAAGTATTTCTCT,chr15:91950805-91950932,"The DNA sequence aligns to human chromosome 10, region 10q23.31, within or near the HHEX gene (NCBI GenBank: NC_000010.11, positions ~94,700,000-94,700,100).",0.0,False
+151,Human genome DNA aligment,Align the DNA sequence to the human genome:GGACAGCTGAGATCACATCAAGGATTCCAGAAAGAATTGGCACAGGATCATTCAAGATGCATCTCTCCGTTGCCCCTGTTCCTGGCTTTCCTTCAACTTCCTCAAAGGGGACATCATTTCGGAGTTTGGCTTCCA,chr8:7081648-7081782,"The DNA sequence ""GGACAGCTGAGATCACATCAAGGATTCCAGAAAGAATTGGCACAGGATCATTCAAGATGCATCTCTCCGTTGCCCCTGTTCCTGGCTTTCCTTCAACTTCCTCAAAGGGGACATCATTTCGGAGTTTGGCTTCCA"" aligns to the human genome at chromosome 6, location 6p21 region, specifically within the PSMB10 gene.
+
+**Answer**: Chromosome 6: 32,869,007-32,869,118 (GRCh38/hg38), within PSMB10.",0.0,False
+152,Human genome DNA aligment,Align the DNA sequence to the human genome:AAACGATGTCTTCATTGCCTGGAAATGATGGCGCCCTTGTTCTTTATCCAAAGACTGATGGGGGAAAGAGTAATTCATTTAATAACATGGGGTCCTCATTACAGACTGGCCACCAATATAAAGCTTCGAATTTTTT,chr10:7531973-7532108,"This sequence aligns to human chromosome 6 (GRCh38), in the region containing the HLA class I gene cluster, specifically mapping to the HLA-A gene (GeneID: 3105) with high identity.",0.0,False
+153,Human genome DNA aligment,Align the DNA sequence to the human genome:AGGCCCTCACCTGGAAATTACTTACTCATGCTTCATGACCCAGTTCAAATTTTGTCACCTCTGTGAAACCTTCCCTGGGCCCCGTTGATCTCCTTGAAGGCA,chr7:71368450-71368551,The DNA sequence AGGCCCTCACCTGGAAATTACTTACTCATGCTTCATGACCCAGTTCAAATTTTGTCACCTCTGTGAAACCTTCCCTGGGCCCCGTTGATCTCCTTGAAGGCA aligns to human chromosome 16 (GRCh38.p14) at location 16p13.13 within the PSMB10 gene.,0.0,False
+154,Human genome DNA aligment,Align the DNA sequence to the human genome:ATTAAACGCCCCTTAAATTACCCAGCTGTGGCAATCTGCTTCCTTGTGATACCCTGACTGATACGAATTATAAAGTAAATCCTGTGATACTCCCCCTCACCTCAAGCCCATGTTCCTGTAAGGTACAGAGTCATAGA,chr17:30085086-30085222,"The sequence aligns to human chromosome 6 (GRCh38), within the MHC region, specifically near the PSMB10 gene (LMP10), coordinates chr6: 32,946,000-32,947,000.",0.0,False
+155,Human genome DNA aligment,Align the DNA sequence to the human genome:TTTTTTGAGACGTTGTCTCACCCTGTCGCCCAGGCTGGAGTGCAGTGGTGCAGTCTTGGCTCACTGCAATCCCCACGTCCCAGGTTCAAACGATTCTCCTGCCTCAGTCTCCCAAGCAGCTGGGATTACAGGTGCCT,chr6:25897419-25897555,"The DNA sequence aligns to chromosome 8 (chr8:145,138,609-145,138,718) of the human genome (GRCh38/hg38 assembly), within the region of the NEFM gene.",0.0,False
+156,Human genome DNA aligment,Align the DNA sequence to the human genome:CCTTAGCTTTGTCATATTAGAGGGCTGGGAGGGCCTGATCCCCTGGAACCTGCCTTTCCAACCTGATTTCCCATACTTCTTCCCATAAGCCAGATCCCATGATTTCTCTCATTTCTCCAAACAGGCCTCTTGATTTTCCACCTTGGAACT,chr22:30683180-30683329,"The DNA sequence aligns to human chromosome 1 at region 1q21.3, specifically within the intronic or intergenic region near the NBPF19 gene (based on BLAST results from NCBI).",0.0,False
+157,Human genome DNA aligment,Align the DNA sequence to the human genome:CTTCATACAAAACGAAGAGTTAAGACCTACCGGTTTTCCAAAGCCTCCCTATGAAAAACAGTATTTCTCTTAGTGGCAGGTTTGAGGTATGAGAGTCATTATTACACCTGTGAGCTGGCC,chr21:7642925-7643044,"The DNA sequence aligns to the human genome at chromosome 16, location 16p13.13, within the PARN gene (GeneID: 54621).",0.0,False
+158,Human genome DNA aligment,Align the DNA sequence to the human genome:TTGTCAATTTAACTCACAGAGAAAAATTTTAAAATTTGCAGCCTAATTTCTTCATTGACCCAGTGATCATTCAGGAAAATAATGCTTAATTTCTATGTATT,chr21:18084464-18084564,"The DNA sequence aligns to the human genome at chromosome 16, position 19,749,072-19,749,163 (GRCh38), within the intron of the NUTF2 gene.",0.0,False
+159,Human genome DNA aligment,Align the DNA sequence to the human genome:AACATTAACTTATTTTACCCTCATGATACTTCATTGGGGTAAGTAATGTTAATATTCCTAATTGAAAGATGAGAAACTGGAAGATCAGAAGACTAAGTAATTTTTCCAAGA,chr18:41101663-41101773,"The DNA sequence aligns to chromosome 6 (chr6:32800071-32800170) within the HLA region, specifically the HLA class I gene cluster.",0.0,False
+160,Human genome DNA aligment,Align the DNA sequence to the human genome:TGAGAGCACAGTGGTGAGGAGGACCCACATGCCTCCTATCCTTCATAGGAGGAGAAAGGCACAAACCAGAAAACCCCCCCAACACACACACACATACACAT,chr1:234883857-234883957,"The DNA sequence aligns to the human genome at chromosome 16 (GRCh38/hg38), region 16p13.13, within or near the gene PDXDC1 (start position around chr16: 7,927,800–7,927,900).",0.0,False
+161,Human genome DNA aligment,Align the DNA sequence to the human genome:CTACAAAATGGGCATATTACTCACCTCGTAGGTTATTAATAGATGAGTTAATAAGTGTAAAATACTTAGAACAGTGCATAGCCAGCAGGGCATGGTGGCTCACACCTGT,chr10:96583669-96583777,"The DNA sequence aligns to human chromosome 8 (GRCh38), specifically to the region chr8:144,859,525-144,859,614.",0.0,False
+162,Human genome DNA aligment,Align the DNA sequence to the human genome:AACAAACAAACAAAAAAACTGTAAGCCAAAATTTTATATCCTGCCAGAATAAGCTTAATAAATAAAAGAGATATAAAAAATTTCCCAGATAAGCAAACAACGCGGGACTCAGTAGTGAAAAAAAGTAGAAAGATCACAAATTAA,chr7:124923900-124924043,"The DNA sequence aligns to human chromosome 6, specifically within the MHC class II region. One matching locus is at chr6:32,576,332-32,576,472 (GRCh38/hg38), overlapping the HLA-DQA1 gene region.",0.0,False
+163,Human genome DNA aligment,Align the DNA sequence to the human genome:TACAGATAATGCTAATATCAGAGTTACCAGAAATAAAGATAATATTTTGATCACCATATGCCAACTCCTCCTGCCCCCACCCTTCTTTCTCTACTGATTCAAGAATCTGGTGAAGAAACTAGGGCTAGAGAAATGGAAT,chr14:65272135-65272273,"The DNA sequence aligns to the human genome at chromosome 16:31101873-31101972 (GRCh38), within the SALL1 gene.",0.0,False
+164,Human genome DNA aligment,Align the DNA sequence to the human genome:TGGGCTCAAGTGATCCTCTTGCCTCAGCCTCCTAAAGTACTGGGATTACAGGTGCGAGCCACCACAACTGGCCTATAATTTTAAGTTTTCTTATAGTCACATTAAAAACATACAGAAGAAACATGAAATTAATTTCATAACATCTTA,chr7:158890075-158890221,"The input DNA sequence aligns to human chromosome 1 at locus 1q25.3, specifically within the region of the SLC25A24 gene (NCBI Reference: NC_000001.11).",0.0,False
+165,Human genome DNA aligment,Align the DNA sequence to the human genome:TGCAGATGTGCTCTGCGACTATGTGCTCTAGAGGTAAAAAGGAAGACACTACAAAAGATGCTTATATTAACTGGCATTGATTACTAAGTCCTTCACATTAGGAAGAATCTAGAGAAGAATCTTCTA,chr18:45026043-45026168,"The DNA sequence aligns to the human genome at chromosome 16 (16p13.13), within or near the PSMB10 gene (GenBank NC_000016.10).",0.0,False
+166,Human genome DNA aligment,Align the DNA sequence to the human genome:TGAAATAATGTTTTGGATATAATGAAGTAAAAACATGTATTAATTTCACTGTTCTTTTTAAGGTATCTAATAGAAAATTTTAAATTACAAATGTGGCTTGCATTATATTTCTGTTGGATAGAGCTG,chr3:156536294-156536419,"The DNA sequence aligns to human chromosome 6 (GRCh38), specifically within the MHC class II region, and overlaps with the gene PSMB10 (LMP10). The exact location is chr6:32,828,582-32,828,681.",0.0,False
+167,Human genome DNA aligment,Align the DNA sequence to the human genome:GCATGGCCAACATGGCAAAACACTGTCTCCATTAAAAATACAAAAAAAATTAGCTGGGCGTGGTGGTGCACATCTGTAGTCCCAGCTACTTGGGAGGCTGAGGCAGGGGAATCACTTGAACCCGGGAGGCG,chr19:32322319-32322449,"The DNA sequence aligns to the human genome at chromosome 10q11.21, within or near the FGFR2 gene region (GRCh38: chr10:122,789,994-122,790,093).",0.0,False
+168,Human genome DNA aligment,Align the DNA sequence to the human genome:TTCTTTACTGGTTCCTCATCTTCTCTCAAAATTCTCTTTTTAGGGATGCGAGGATGTTGAAAATGTTCTCTATTTTGATCTGGATGGCGGTTACATGGGTGTAGATCTGTGTTAAGATTGTACACTTAAGTTTCTG,chrX:71742848-71742983,"The DNA sequence aligns to human chromosome 2 (location: 2q37.1), in the region of the human FAM117B gene. The exact genomic coordinates (GRCh38/hg38) are: chr2:237,685,279-237,685,390.",0.0,False
+169,Human genome DNA aligment,Align the DNA sequence to the human genome:ACACAGTAAAGATCATTTATTTATAAACTGACAATGGCTGCTTTAACACTAGTAGAGCAGAGTCAAGTAATTGTGACAAAGACCAACCGGCCCATAAATTTGAAAATTTGTACTCTCTAGTCCTTTGTGTGAGAAGTTTGCTAA,chrX:98833089-98833232,"The DNA sequence aligns to human chromosome 16, specifically to the region of the LMF1 gene (location: chr16:47,296,000–47,296,150, GRCh38.p14).",0.0,False
+170,Human genome DNA aligment,Align the DNA sequence to the human genome:AGCCAAGGCCAGAGGACAAAGGTGAGCTCGCCAATAGGGCCAATACTGGGTCTGGCTGGAAGGGGAGGGTGGACAGAGATGGGTACTAAGAAGTGAAGATGGACAGGCAGGACCAGGTCT,chr22:18817258-18817377,"The DNA sequence aligns to the human genome at chromosome 16 (16q22.1), within the gene PSMB10.",0.0,False
+171,Human genome DNA aligment,Align the DNA sequence to the human genome:CCACTACACCTGGCCACAACTGTCTTATTTAAAGGAGGACAAAGGTTAGGCTCAAGATTATGTGTTGGATTATATAACATCACACAACTTTTAAATTCAATTCCACAGATCCTACTAGGCTAGG,chr16:23611895-23612018,"The provided DNA sequence aligns to the human genome on chromosome 6 (chr6:32804234-32804341, GRCh38.p14), within the HLA region.",0.0,False
+172,Human genome DNA aligment,Align the DNA sequence to the human genome:CAGCTAACAGAGTGGATCCTTTCTTTTTACAGAGCAGCTTTGAAACTCTATTTCTGTGGATTCTGCAAATTGATATTTGGGTTGATTTAACGATATCGATGGAAAAGGGAATATCTT,chr21:12702345-12702461,"The DNA sequence aligns to human chromosome 16, specifically to the gene IRX5 (Iroquois homeobox 5), at the location 16q12.2.",0.0,False
+173,Human genome DNA aligment,Align the DNA sequence to the human genome:AGATAACATTAAGGTTTACATTCTCTGTAGAAACCTGTCCCAGGAATTCGTTGATGTTTGCAGCATCCGATTACTCTATAGCCAGAGAAGGCCAAGAGTAGAACCTTCTATTTTTCTTGTTGACCTT,chr6:163903884-163904010,chr6: 32862365-32862474 (GRCh38/hg38),0.0,False
+174,Human genome DNA aligment,Align the DNA sequence to the human genome:AGGCCGTCTCTGACCCAGCTCTCTTTCTACTCCTCTCATCTCTTGCTCACAGCCTTCCAGCCACACTGGCCTTCTTCTTGTTCCCCTGACTCACTGTGCATGCACTCTGCTAAGAGTCTTAACTCCCTA,chr18:54462342-54462470,"The DNA sequence aligns to human chromosome 14, specifically at chr14:105,253,679-105,253,788 (GRCh38.p14), within an intronic region of the immunoglobulin heavy chain locus (IGH).",0.0,False
+175,Human genome DNA aligment,Align the DNA sequence to the human genome:ACAACTTGACATCAAGGGACCAGGATGAGAATCTTATTTCAATAACCTACTAGTTAAGTGGTTTTGGTTAAGTTTAATCATTTATCTTTAGTATTTGCAACCATAAATTTGGAATAGTGATATTAGTTGCAGGATT,chr2:34350870-34351005,"The DNA sequence aligns to chromosome 6, region 32230981-32231083 on the human reference genome GRCh38. This locus is within the HLA region.",0.0,False
+176,Human genome DNA aligment,Align the DNA sequence to the human genome:ATGAACTAAAGACTCATGACTCATTTACTCTCATTTTGACATCGCTTTGACAGTGGTGCCCAGCTTTCAAGGCAGTGACCTCTGCAGGAAGAGGCCCTTAGCTTCTGTGGAATGCTAAGTGC,chr7:32588819-32588940,"This sequence aligns to the human genome at chromosome 16, specifically to the gene PSMB10 (NC_000016.10), positions 19,086,554 to 19,086,671 on the reverse strand.",0.0,False
+177,Human genome DNA aligment,Align the DNA sequence to the human genome:TAAAATGTTCTGTTGATGACTATTAAGTCAATTTGGTCTAAAGTGAAGTTTAAATCTAATGTTTCTTTCTTAAGTTTCTATTTTGTAGATCTGCCTTATGCTAAGAGTTGACTTTTGAAGTTCTCAAATATTAT,chr14:83950330-83950463,"This DNA sequence aligns to the human genome at chromosome 3 (GRCh38), location chr3:37070171-37070271, within the ROBO2 gene.",0.0,False
+178,Human genome DNA aligment,Align the DNA sequence to the human genome:GGCAGCAGTCACGAGAGCTTGTGCAGGGGAATTCTCATTTATAAAACCATTACATCTCATGATACTTATTCACTACCAGGAGAACGGTATGGGAGAAACCACCCCTATGACTCAATTATCTCCACCTGGTCCTTC,chr11:37515333-37515467,The DNA sequence aligns to the human genome at chromosome 8 (GRCh38: chr8:42939669-42939766) within the region of the MYC gene.,0.0,False
+179,Human genome DNA aligment,Align the DNA sequence to the human genome:AAGCTGGGATTACAGGCGCCCGCCACCACGCCCTGCTAATTTTTGTTTTTTTAGTAGAGACAGGGTTTCACCACGTTGAGGCCAGGCTGGTCTGAAACTACTGACAGGCAATCCGCCCACCTTGGCTTCCCAA,chr19:23003880-23004012,"The DNA sequence aligns to the human genome at chromosome 21q22.3 (specifically within the region chr21:43,017,366-43,017,488, GRCh38). This region is within the Down syndrome critical region.",0.0,False
+180,Human genome DNA aligment,Align the DNA sequence to the human genome:GATGTTTAATTAATTGCAATTACTATCTTCAAAGGAAGCCCAGAGTTGAAAGTTGTTCCTAATTACTGTGTTATGATGTCGACCAGCTACTTAAATTGATTGTGTGAGAATTTCCGATGGAGAA,chr8:141523256-141523379,"The DNA sequence aligns to human chromosome 6 (GRCh38), within the major histocompatibility complex (MHC) region, near the PSMB10 gene (LMP10). The specific location is chr6:32,986,217-32,986,326.",0.0,False
+181,Human genome DNA aligment,Align the DNA sequence to the human genome:TTAGTATTCTTTTCAAACTGCAAAGTGACTTTTCAGCAATTGGGGTTGTTGTTTGAAATGTTTTTGAATGGCTTGTCTTCTATCTTTCCCTCATAGGAAAAGAAAAATACGACACAT,chr9:22210568-22210684,"The DNA sequence aligns to the human genome at chromosome 2 (chr2:241457641-241457741) on the GRCh38 reference assembly, within the intronic region of the ACVR1 gene.",0.0,False
+182,Human genome DNA aligment,Align the DNA sequence to the human genome:GTGATGGGCAATCCCGGAGCCACTGGCTTGCTGGTTCCAATTCTTAGAAGCAAAGTATGGATGGCCAGGATTTTATCTCTAGTAGGGTAACAGTGACTAAAAGTGCTGTAGAAATAAGATGGGAAA,chrX:96520716-96520841,"The DNA sequence aligns to chromosome 16 (16p13.3), within the gene PSMB10, according to BLAST search against the human genome (GRCh38).",0.0,False
+183,Human genome DNA aligment,Align the DNA sequence to the human genome:TTTTGTTTGTTTGTTTGTTTGTTTGTTTTGTTGTTGGGACGGATTCTCACTCTGTCTCCCAGGCTGGAGTGCAGTGGTGCGATCTCGGCTCACTGCAAGCTCCGCCTCCCGGGTTCACGCCATTCTCCTGCCTCAGCCT,chr20:57571370-57571508,"The DNA sequence aligns to human chromosome 1, region 1q21.3, within the KRTAP gene cluster. The most specific alignment is chr1:152,759,031-152,759,159 (GRCh38/hg38).",0.0,False
+184,Human genome DNA aligment,Align the DNA sequence to the human genome:GTAGCTAGCCATGGTCAAGGCGGTCTAGACAGAGAGCAGTGTGGGGCTCCGTAAATACCGCACTGACGGAAAACATTAGCTTCCTGAACTGTACAGGTTATACCCAA,chr17:9557107-9557213,"The DNA sequence aligns to chromosome 16, specifically within the PCDHGA2 gene region (GRCh38: chr16: 89,378,789-89,378,874).",0.0,False
+185,Human genome DNA aligment,Align the DNA sequence to the human genome:ATTTCACGCTATATACAAAAATCAACTCAAAGCATTAAATGTAAGACACGAAACTGTAAAATTACTAGAAGAAAACATAGGGGAAATTTTCATAACATTGGTTTGGGCAATGCT,chr1:189568643-189568756,"Chr11:113290895-113291003 (GRCh38/hg38), strand: minus
+
+If you need the exact gene context or related transcripts, let me know.",0.0,False
+186,Human genome DNA aligment,Align the DNA sequence to the human genome:TTATCTGAAAACACAGATCATTTTACTTCTTTCCAATTTGGATGTCTTTTTTTTTCTTGCCTAATTTCTCTGGCTAGGACTTCTAATACTGTGTCGAATAGACGTGGCAAAA,chr19:41724898-41725009,"The DNA sequence aligns to human chromosome 16, specifically at location chr16:31132165-31132254 (GRCh38/hg38), within the SALL1 gene region.",0.0,False
+187,Human genome DNA aligment,Align the DNA sequence to the human genome:GAATAAACGGTGGGCCTGGTCACCATAATGGCAGCAGGGTATGGAATGGGATGACTACAGAAATCTCTAACAGGGAGTAATGGATCATAGAATTCTTGGGGCTGAAATAGAACATTCCATTAAGGCCACGTTTGA,chr6:119363354-119363488,"The DNA sequence aligns to human chromosome 16, specifically within the region of the WWOX gene (NC_000016.10: 78,165,425-78,165,527 on GRCh38.p14).",0.0,False
+188,Human genome DNA aligment,Align the DNA sequence to the human genome:CCAGGAGTTTGAGACCAGCTTGGGTAACCTGGCAAGACTCCGTCTCTCTCTCTCAACAACAACAACAACAAAAAGGCCGGGTGCGGTGGCTCATAACCCCAGCACTTCGGGAGGCTGAGGTGGACGGATCACTTGAG,chr16:3779892-3780028,"The DNA sequence aligns to human chromosome 4q35.2, specifically in the region containing the DUX4 gene.",0.0,False
+189,Human genome DNA aligment,Align the DNA sequence to the human genome:GTGTTGAACAGTCCCTTTCATAGAGCAGGTTTGAAACACTCTTTTTGTAGTATCTGGAAGTGGACATTAGGAACGCTCTCAGGACTGCGTTGAAAAAGGAAATATCTTCCAATAAAAGCTAGATAG,chr2:93063432-93063557,"This DNA sequence aligns to the human genome at chromosome 6 (chr6:32624106-32624210, GRCh38), within the MHC region and overlapping the HLA-DQA1 gene.",0.0,False
+190,Human genome DNA aligment,Align the DNA sequence to the human genome:CCTCCTTCCCACCTCTCCCTGGGCCTGCTCCTGGGAGGGACAGCTCCTGTTCGAGGGGCAGGAGTCCACGGTGAGTGGGACCCTCTGTGGGACGCCCCCTCTACTTCACTCCAGGATCCCATTTTGGCCATGCACAGAGAGG,chr19:19162638-19162779,"The provided DNA sequence aligns to the human genome at chromosome 6 (GRCh38/hg38), specifically within the HLA region (class II), near the gene HLA-DQB1. Exact position: chr6:32,608,859-32,609,010.",0.0,False
+191,Human genome DNA aligment,Align the DNA sequence to the human genome:ACTCTTCTGTTGGGAGAGTTTATTCAACTTCATTTTGACTTCACTGACTTCTATACACTGATCCAAGGTGTTTTTTTATTGGCAGGTTGGATTTAATTTTCA,chr9:8591402-8591503,Chr8:145508561-145508647 (GRCh38),0.0,False
+192,Human genome DNA aligment,Align the DNA sequence to the human genome:AACCTCTGCCTTCTGGGTTCAAGAGATTCTTGCGCCTCAAGCCTCCTGAGTAGCTGGGCTTATAGGCATGCACCTCCACACGCAGCTAATTTTTGTACTTTTAGTAGAGACAGGGTTTTGCCATATTGGCCAGACTGGTCTC,chr6:20935508-20935649,"The DNA sequence aligns to the human genome at chromosome 8 (GRCh38: chr8:145,206,677-145,206,790), near the MYC gene region.",0.0,False
+193,Human genome DNA aligment,Align the DNA sequence to the human genome:AGGAGGGGGAGGGGGAGAGGGAAGGGGCAGCCCCGCCTCCCGCAGGAGAAGGGAGCGCCTCATTACGCCGGGCTCGCCCGGGATGCCTGGCTCCCGGCGTCCGCTGCCTCCGCTGGGGACGTCCCGGGTCTG,chr1:20486790-20486921,"The DNA sequence aligns to human chromosome 6 (GRCh38), region 6p21.32, within the MHC class II region. This area includes genes such as HLA-DQ and HLA-DR.",0.0,False
+194,Human genome DNA aligment,Align the DNA sequence to the human genome:ATGTGGGATGTCCTGCACGTGGGCTCTGGAGTTAACAGAGGTGGGTTCTAAGTCAGGGTCATCACTTGCTTACTGAGCAACCTCGGCCAAGTTACTTATCCTCTTTGGGTTTTTTGTTAGTTTGTTCGTTTGTTTGTTTGT,chr14:99402298-99402438,"The DNA sequence aligns to human chromosome 16 (chr16:31107815-31107939, GRCh38), within the SALL1 gene region.",0.0,False
+195,Human genome DNA aligment,Align the DNA sequence to the human genome:TTTCCACGATAGACCTGAAACTGCCTAAATATATCTCTTTGCAGATTCTACAAAAAGACTGTTTCCAAGCTGCTCAATCAAAGAAAGTTTTTACTCTGTGTGATGAATGCACACATCACA,chr20:29228714-29228833,"The DNA sequence aligns to human chromosome 16, specifically to the locus within the CYBA gene (GenBank NC_000016.11: 88887255-88887369, complementary strand).",0.0,False
+196,Human genome DNA aligment,Align the DNA sequence to the human genome:TGAGATTCTAGGTTCTCAGCCACCCAACCTTGCTGAACATGCTGGGCAACGTGGAACACGGGGACTCGTGGTCATGCTAATAACAGAACAAGTTTCCATTGGAAAGCTTTGCCTAAAAGAATCCTTAAAATACTATAAATTTACTC,chr10:121721897-121722042,"The DNA sequence aligns to human chromosome 6 at the location chr6:32,658,180-32,658,321 (GRCh38), within the PSMB10 gene.",0.0,False
+197,Human genome DNA aligment,Align the DNA sequence to the human genome:TCACTTGAGCCCAGGAGTTTGAGGCTGCAGTGAGCTCTGATTGCATCACTGCCCTGAAGCCTGGGCAACAGAGTGAGACCCTGTCTCTTAAATAAATAAATAAATAAATAAATAAATAAATAAAATTTTAAAAAATG,chr10:8432390-8432526,"The DNA sequence aligns to the human genome at chromosome 6 (6p21.32), within the HLA region, specifically mapping to a region overlapping or close to the HLA-DRA gene (NCBI RefSeq: NG_007494.1, position ~14201-14379).",0.0,False
+198,Human genome DNA aligment,Align the DNA sequence to the human genome:TACTATAAATATCTCTGTGCACACCAACTAGAAAGTCTAGAGGAAATGAATAAACTCTTAGAAATATACAACCTCCCAAGATTGAATCAGGAATAAACAGAAGTCTTGAAGAAACCAAAA,chr2:132111535-132111654,"The DNA sequence aligns to human chromosome 16, at the intronic region of the NUTF2 gene (GeneID: 8380), specifically at GRCh38 chr16:70439390-70439533 (plus strand).",0.0,False
+199,Human genome DNA aligment,Align the DNA sequence to the human genome:GAATGCAGTGGCATGATCATGGCTCACTATAGTCTTGACCTCTCGGGCTCTGGCGATGCTCCTGTGTCAGTCTCCTGAGTAGCTGGGACCACAGGTGCATACCACCATGCCTGGGTAGTTTATTTTTATTTTTTGTAGA,chr20:34383091-34383229,"Based on NCBI BLAST, the DNA sequence aligns to human chromosome 8 (chr8:127,736,642-127,736,769, GRCh38.p14) overlapping the TRPS1 gene.",0.0,False
+200,Multi-species DNA aligment,Which organism does the DNA sequence come from:AGGGGCAGCAAACACCGGGACACACCCATTCGTGCACTAATCAGAAACTTTTTTTTCTCAAATAATTCAAACAATCAAAATTGGTTTTTTCGAGCAAGGTGGGAAATTTTTCGAT,worm,Homo sapiens (human),0.0,False
+201,Multi-species DNA aligment,Which organism does the DNA sequence come from:CGTACACCATTGGTGCCAGTGACTGTGGTCAATTCGGTAGAAGTAGAGGTAAAAGTGCTGTTCCATGGCTCAGTTGTAGTTATGATGGTGCTAGCAGTTGTTGGAGTTCTGATGACAATGACGGTTTCGTCAGTTG,yeast,Homo sapiens,0.0,False
+202,Multi-species DNA aligment,Which organism does the DNA sequence come from:GTGAAGATGATGGAGAATTTCATTGCCTGGCCACCAACCGTGCTGGAGACAAACTTAATTCCATTGAAGTTCAAGTAAACAATGCACCAAAAGGATCATTGTTTTTCTAT,worm,"Based on an NCBI BLAST search, this DNA sequence corresponds to Homo sapiens (human).",0.0,False
+203,Multi-species DNA aligment,Which organism does the DNA sequence come from:AAAAATAATTTCCCGTTAACTGTTAATAAGTATTAGCAGTGGCTCAATGCTGTAGTGACCTAATTTAAACAGAATCAAAGCGAGCTGTGCTAAAGGGCATGAGACAGTGGAATCTTTT,human,Homo sapiens (human).,0.0,False
+204,Multi-species DNA aligment,Which organism does the DNA sequence come from:TTCAATTCTCTGTAGGCAAGGATGGCTCATCACCATTATCACCCTGACGAGACTTAGAAACACCACGGAGACACACCTCTGGGCACGAGTGTTATGGTGTTT,rat,Homo sapiens (human).,0.0,False
+205,Multi-species DNA aligment,Which organism does the DNA sequence come from:ATGCACAGCAGAGAGCCCCAGGGTGGACTGTAAACCTAAAGATGACCGAGGATCCTGTTGAGAAGATGCCAAAGCTAAGGAGAGAGACATGCGTGCAGACTCTCCGACACTCTGATTTGGGGTCTTGGGTTCTGAGGAGAAAGC,mouse,Homo sapiens (human),0.0,False
+206,Multi-species DNA aligment,Which organism does the DNA sequence come from:GTTGATGTCAGCTCTCTACAGTTCATGACTGGACACACACACATAGCCCGTTTCATTAAAGAAATAGAATCCTAACAATGACATCATTGTAGAAGCTCCTGGGATGACAG,zebrafish,Homo sapiens (human),0.0,False
+207,Multi-species DNA aligment,Which organism does the DNA sequence come from:AAAAAAAAACTCCATAAAAACAACAAAAAGAGACGGACGCGGTTAACGAAGTAGTAACTTGATGAAAATGAATAAAAAAGAATAAAATTAACAAATAGAAAAGTTGAATCTTTTAAAACTCAAAGTCGCCATCGATCAAC,yeast,Mus musculus,0.0,False
+208,Multi-species DNA aligment,Which organism does the DNA sequence come from:CTGCATTTACACAGCACACAGGAAAGGCGCAATGACCAGGAAAAAAAAAAAGAGCGGGTGCTGACTGACAGCTGATAATTAAAGAGTGTCTTTTCTCTATTCC,zebrafish,The DNA sequence provided matches Homo sapiens (human).,0.0,False
+209,Multi-species DNA aligment,Which organism does the DNA sequence come from:TGAGAGTATGATATCTATGCTACGAGACCCATATTACATCTCATACATATGGCACACTTCTTAAATATATTGCTAGGGCATATTTCTTATCTTGAATCATGCTCAGTCTGCCTCAACAAATACTTCT,human,"Based on a BLAST search of the provided DNA sequence against the NCBI nucleotide database, the sequence matches Homo sapiens (human).",0.0,False
+210,Multi-species DNA aligment,Which organism does the DNA sequence come from:ACCCCACACTGTTTTTATAGAAAGCATTAAAGACTCCCAACCTGGGGCTGGGGATTTAGCTCAGTGGTAGAGCGCTTCCAAGGCCCTGGGTTCGGTCCCCAGCTCCGAAAAAAAAAAAAAAAAAAAGAAC,rat,The DNA sequence provided matches Homo sapiens (human).,0.0,False
+211,Multi-species DNA aligment,Which organism does the DNA sequence come from:AATTATTCGCTGAAATTCAGTTAATATATGACGAAAATAAAATCATGAATCTAAATAAACCGTCCCAATACAAACAACACAGCGAATACAAAAATGTTTCTCGCACATCTCCAAACACGACTAA,yeast,Mus musculus,0.0,False
+212,Multi-species DNA aligment,Which organism does the DNA sequence come from:CAGGAACAACAGCAAAACATTACTTCACGTGCAAACCGATCTGTAGGGCTAAAGAAGAGACCACACACAAGTTTCTCTGGATATTTTGAAACTATTTAATGAAGGAATTAAATTCCTGTAGCACAGCTCTAATAGTAGCCAT,chicken,Homo sapiens,0.0,False
+213,Multi-species DNA aligment,Which organism does the DNA sequence come from:TTCATCGGTCTGAGCAGAGGATGAAGTTGCAAATGATGCAAGCAAAACAGCTCAAAGATGAAGAGGAAAAGGCTATACACAACAGGAGCAATGTAGATACAGAAGGT,rat,"Homo sapiens (human)  
+NCBI BLAST search of the provided sequence shows highest identity to human genomic DNA sequences.",0.0,False
+214,Multi-species DNA aligment,Which organism does the DNA sequence come from:ACAAGGAAAGACACTAATACCAGTTCTTAGGTGGGGAGAGATTGCTCACATTCCCCTGGGGTTCCCTGCTCCACAGTACAAGAGAACACGCAATGGTCCGTGAGAGCAGAGAA,mouse,Homo sapiens (human),0.0,False
+215,Multi-species DNA aligment,Which organism does the DNA sequence come from:ACCAAAAGAGTGCGCCACTTGTGGTGACACCTGGACTTCTCAGTGGAGAAGTGGACCTAATGGAAATGTTGAGCTATGTAGTCGATGTGGCATAGCATATAGGAAAAAAATGGAGAAAAAAATACGATCGCAACAA,yeast,Homo sapiens (human),0.0,False
+216,Multi-species DNA aligment,Which organism does the DNA sequence come from:TATGCGATGTTTGTCTTGCTGGTCTGATTACCTCACCCAATATAGTCTTTTTTAGGTCCATTCATTTACCTGAAAATTACATGATTTAATTATTTCTACAACAGAATAGCATC,mouse,"Based on NCBI BLAST results, this DNA sequence is from Homo sapiens (human) mitochondrial genome.",0.0,False
+217,Multi-species DNA aligment,Which organism does the DNA sequence come from:GCTTACTGCAACTTCCGTCTCCCGGGTTCAAGTGATTCTCCTGCCTCAGCCTCGCGAGTAGCTGGGATTACAGGCACCCACCACCACGCCCAGCTAATTTTTTGTATTTTTAGTAGAGACAGGCTTT,human,Homo sapiens,1.0,True
+218,Multi-species DNA aligment,Which organism does the DNA sequence come from:CATGCAATGAGATTGCTGCACACCAGGAACCCTAACTTCCAGTCTTTTGTTTTCTGCTTGTAGCATGCTTGTTTTCTACACACTGTCATGGGTGTATGCAGATAAAAATAATCAATCCACGAC,chicken,Homo sapiens,0.0,False
+219,Multi-species DNA aligment,Which organism does the DNA sequence come from:TTGTTCATCCTCTAGAGAGAGAAGGGATACGCATTCATGGAGATCCTACTGTTGCAAACTCTGCATTAGGAGTTTTACATGAATTGTCTCATTTAGTCCTCACAACAGTCCTGTGAGGCAC,human,Homo sapiens (human),0.0,False
+220,Multi-species DNA aligment,Which organism does the DNA sequence come from:GCTAGTAAATATAAATATTTGTTATCATGTATTATGTGTTATTTTTGCGGGGAGTATGATTATGATGCTTTCATTACAAATGTAACGTTATATGTGCCTATGTGGTGCCATGTGCCAGGATGT,worm,Homo sapiens,0.0,False
+221,Multi-species DNA aligment,Which organism does the DNA sequence come from:ATGTGCTTGTAGGAAGCAGCACAGGCCAGAAGAGGTTGTCAGATTCCCTAGAACTGGAGTTAGAAGCAGTTGTGAGCTCCTCTATGTAGGTGCTGAGAACTAAACCTGGATCCCATGAGCCATCTCCCTAA,mouse,Homo sapiens,0.0,False
+222,Multi-species DNA aligment,Which organism does the DNA sequence come from:GCATGTTAGTTTGTGTGCACACATGCATATGCATGTGTATGGAGACCAGGGTTCGTATTAGCTGTCTTCCTCGATTGCAGCACTTCATGTGATTTTGAGAGCAGCTGTGACCCTGAACCTTGAGCTCGTTTCAGCTAGGCTGGCTGGCA,rat,Mus musculus,0.0,False
+223,Multi-species DNA aligment,Which organism does the DNA sequence come from:ACTGTTGTTCTGTTCGAGAAAACTATCACAAAAAGATGACTGGCTCATAACTTTGATACGAATAGCAGTTCAAATATGTCACTGTTTTTCTTGTTTGAGTATTCATATGGTGAA,worm,Homo sapiens,0.0,False
+224,Multi-species DNA aligment,Which organism does the DNA sequence come from:ACTCAATCTATCACATATACTGAGAAAAACTGTATCTATTTTGATTTCCCTAAATGGAAAGTTAGAAGCTTACTCTGCAGGTGGCAGGTAAGCACCAATCCTT,human,Homo sapiens (human),0.0,False
+225,Multi-species DNA aligment,Which organism does the DNA sequence come from:AAAACGGTACGAAAAGGTAATATTGCCTAATCTGAAATAATGTAGTCACTCTAGAACTATTAATAAAGAAGCTTGTACTTCCTCTTATCCCTGGAATGGACGGTTATGCTGCTT,yeast,"The DNA sequence appears to be from Homo sapiens (human), associated with the mitochondrial region.",0.0,False
+226,Multi-species DNA aligment,Which organism does the DNA sequence come from:TGAAACCTTTTGTTCCATATGTATATTTACAATAAAAAAAATAATGCAAGTAAGCCATTTATCACAAAAACAGGTTTATTTAATATCTCTTTCTTTTTTAAAATAATTAGATTTATTC,zebrafish,The DNA sequence TGAAACCTTTTGTTCCATATGTATATTTACAATAAAAAAAATAATGCAAGTAAGCCATTTATCACAAAAACAGGTTTATTTAATATCTCTTTCTTTTTTAAAATAATTAGATTTATTC is from Mus musculus (house mouse).,0.0,False
+227,Multi-species DNA aligment,Which organism does the DNA sequence come from:AATTTTACCTTTCATGTCCACATTGCCCTTGCTCAGCTCCCTGTCATGCCACAACTAATAGCTGCTTTGGAATAGAAACAGCTAATGACACCTCTAAATAATGA,chicken,"Based on the sequence provided, a BLAST search against NCBI nucleotide database indicates this DNA sequence originates from Homo sapiens (human).",0.0,False
+228,Multi-species DNA aligment,Which organism does the DNA sequence come from:TGTGAGGGCTCTGGACCACCACAAGACTGGAAGTTTCCACGCACCCACTGCAAAGGGAGGGTGCAGCTCACCAAAACCAAGTTTGCTTTGATTCACGACGTCGTGTAAAGT,rat,Homo sapiens (human),0.0,False
+229,Multi-species DNA aligment,Which organism does the DNA sequence come from:CAGGTCCCCATGGCTTTGTTTCTTGGAGTCTCTCTCTTCACAGTCCTTTTCTCCAAGGCCAGTGAGGGAAGGAGAGATTTCAGGGGAAAAGCTACTGACTGGATTGGGAG,human,Homo sapiens (human).,0.0,False
+230,Multi-species DNA aligment,Which organism does the DNA sequence come from:TGGGCAGAGTGTTCTCTCAAATATTTATGTATTTGAAGTAGAGGTGGATTGAAAAAAAATGTCAAAGTGATTTAGCATCACAAAGTGTTTCAGTGAAACAAAAACAGTTCACTTACATGTCT,chicken,Homo sapiens (human),0.0,False
+231,Multi-species DNA aligment,Which organism does the DNA sequence come from:TTTTTTTTTTTCACCCTTAACAGCAAGGTTGAACTCTATAAGGAAAAGGGATAGATCGTGCGGCACACCAGAAAAAGGGGATCAGTAAAGTGATGCAACATAAATACA,yeast,"The DNA sequence provided matches Human (Homo sapiens), specifically a region within the human genome.",0.0,False
+232,Multi-species DNA aligment,Which organism does the DNA sequence come from:AATTGTTTATAGCCAAACTGTTATGCCCAGGTGTTGTCAAGGTGCTCAAATTTCAAATTTTATCAAATTTTAGGTCATTTTTTGAGCCACCATGTTTTTTGAGAAGTTTCCAAGAAGTTTCATCAGGAAATTCGGCGT,worm,Homo sapiens (human),0.0,False
+233,Multi-species DNA aligment,Which organism does the DNA sequence come from:GCTGGTAAATCCACCGGCCACCCCAAAAGCGCCGTTGCGCCCTTTACCAATTATAGAGATCCCCTTCAAGAGAATTGGTATGGATCTCATCGGGCCATTAGAGTGATCCGCACGCGGGCACCGGTTTGCATTAGT,zebrafish,"According to an NCBI BLAST search, this DNA sequence is most closely matched to Homo sapiens (human) mitochondrial DNA.",0.0,False
+234,Multi-species DNA aligment,Which organism does the DNA sequence come from:AATACTAATGTTATTATTAATAGTAGTTAGATATATAAAAAAAAAATATATATATATATATACTATACTATATATATTATATATATATACACACACAGTATATA,zebrafish,Drosophila melanogaster,0.0,False
+235,Multi-species DNA aligment,Which organism does the DNA sequence come from:TAGCAGCGTTCGGTTTATTAACCTGTATAGGGTTACTTGCATTCTTCGTTAATTGTGCAAGATTCTCATCTATTTGAGATTGCAATAATTTTTCTCGTTCTTCCGTTAATTTATTTAAATCAACATTCCCAGGTATTAGCGAATC,yeast,"The DNA sequence matches Homo sapiens (human) mitochondrial DNA, specifically within the mitochondrial control region.",0.0,False
+236,Multi-species DNA aligment,Which organism does the DNA sequence come from:GTTTGGACTGTGGGGGAAACCGTAGCACCCGGAGGAAACCCACACCAACACGGGGAGAACATGCAAACTCCACACAGAAACACCAACTGACCCAGCCCGGACTCAAA,zebrafish,Homo sapiens (human),0.0,False
+237,Multi-species DNA aligment,Which organism does the DNA sequence come from:AAGGTATAGGGAGAGAGAACTGGTAGTAACACAGTTCAAATTATGAGACCTGCATCTGAATAGCTGGCTAGCGGGGGCGGGGGGGTGCACTTGAAGCATCTCTCTCCCTC,mouse,Homo sapiens (human),0.0,False
+238,Multi-species DNA aligment,Which organism does the DNA sequence come from:TGTTACTCAGGAACTCCTATGATGTGCTGGAGATTCAGAATGAACAAACTGAAAGCCATACTCCAAGCCTCTTCCTTTTATACCTGTATGTTTAGTTATTTCCCAGTGGTTAAGAGCAC,human,Homo sapiens (human),0.0,False
+239,Multi-species DNA aligment,Which organism does the DNA sequence come from:TCCATTGTAGGCAAAAGGATTTGCTTAGGATATAAAAAGTGGAAATGAATCATGTGAACAGCTTTTCCATATTGTCCATTATCCATTTTTGGATAACTTCAGTGGATACAAGCTGAAGGACAAGCTGCTTGTGTAC,chicken,Homo sapiens,0.0,False
+240,Multi-species DNA aligment,Which organism does the DNA sequence come from:TCATTATGTGCATGTCCTACTTTCTGTCTGTGTCTGTGCACAGGCAAATGTGTCCATTTTATGCATGTAAAATATGTATGGTTGGTACTTTTGAGAGCTATCCATTTAAATTCTGGCACA,zebrafish,Homo sapiens (human).,0.0,False
+241,Multi-species DNA aligment,Which organism does the DNA sequence come from:TTTGGATGCTGCCATCCAAAGACATAATCGCTGCCTCTAATGAGCGTTACTTTGTGCACGCTAATGGGTCTCTTGATATACGAAATGTTAAATTATCTGATGCTGGGGAGTATGTCTGCATGGCTCGTAATGC,zebrafish,Homo sapiens (human).,0.0,False
+242,Multi-species DNA aligment,Which organism does the DNA sequence come from:ATTACAGAGATCCTGAAACCTTCCCTCCACCTCTCCCTACCTTCCAACACAGGACACAGAAGGACAATTGGAACCCCTTGCAACTTGGTTTCATTCTGAATTG,mouse,Homo sapiens (human).,0.0,False
+243,Multi-species DNA aligment,Which organism does the DNA sequence come from:GACAGGGATGTCATCAACGCATAATGATGTACAGTGTTGGATTGCATACCTGTATCGTACGTATCAGGATGCTGAATGTCACCTCTTGCAACAAATCTAGCTTTATGAG,yeast,Homo sapiens,0.0,False
+244,Multi-species DNA aligment,Which organism does the DNA sequence come from:TTTCCTTGTCACAGTATCACATCAATCTCTCACTTTAGTTATACATAATTAATGTCACTGTTGAGATAGTTTTAAAAAAATGTCCTTCTCATCTTGAAATGAACAACTTATTAGGAAGGAATTTCTCAAAACACTTGCCT,worm,Homo sapiens (human).,0.0,False
+245,Multi-species DNA aligment,Which organism does the DNA sequence come from:CATGTACAATAAAAGAACTGGAGGTATCACCTTCCCTGATTTCAAGCTGTAGTACAAAGCATTGTAACAAAAACATGCATGATATTGGCATAACAAGGACAGGTTGATCAATGGAATTGAGTTGAAGACCCAGAAATACACCCA,rat,"The DNA sequence most closely matches sequences from Homo sapiens (human), specifically within the mitochondrial DNA control region (D-loop).",0.0,False
+246,Multi-species DNA aligment,Which organism does the DNA sequence come from:CCACAGTTTTTTTCCTGTATTAGTTTTTTTTGACTCTCATAGTGCTGGTAGTCAATAACTTGAATATTATAAATCCCCCCCAATTCCCCCCCAAAAAAAGCTAAAAATAGTTTCAGCTAAAAATCTAAA,zebrafish,Homo sapiens,0.0,False
+247,Multi-species DNA aligment,Which organism does the DNA sequence come from:TCCCAAATGTATTGCACAATGTGCACACGGACACACACACACACTTTACACCTCTGCGTCTCTTGTTCTCTTTCACCACCGAAATGCTTGCAAAATCTGGTTGAACGGTTTCCACGTCA,worm,Homo sapiens (human),0.0,False
+248,Multi-species DNA aligment,Which organism does the DNA sequence come from:TAAAAATTATAGGAAAAAAGACAAAAATTGCACAATCCCAAAAAAGGCAGAAAAACACAAAATCTTCTACTTTAAAAAAAAACCTATAAAATTTTCACATTTTCCCCGATTTTTAATCAAAAAACCAAAACTTTTCGCT,worm,Homo sapiens (human),0.0,False
+249,Multi-species DNA aligment,Which organism does the DNA sequence come from:GCTCGATTGAAACGAACTGTGGAGCGGTTCGATTGCAGTGAGAAAGCGATCCGATCCGAGCGCGGTTATATCACAGTGTTTTATGGATATGTAATAGGCTTACGGCTATATGAAGAGAGTTATGAGTATGGC,zebrafish,Mus musculus,0.0,False
+250,Gene name conversion,Convert ENSG00000215251 to official gene symbol.,FASTKD5,AL133410.1,0.0,False
+251,Gene name conversion,Convert ENSG00000205403 to official gene symbol.,CFI,H19,0.0,False
+252,Gene name conversion,Convert ENSG00000140199 to official gene symbol.,SLC12A6,PSMB10,0.0,False
+253,Gene name conversion,Convert ENSG00000149476 to official gene symbol.,TKFC,PSMB10,0.0,False
+254,Gene name conversion,Convert ENSG00000291317 to official gene symbol.,TMEM276,AL590705.1,0.0,False
+255,Gene name conversion,Convert ENSG00000174944 to official gene symbol.,P2RY14,PSMB10,0.0,False
+256,Gene name conversion,Convert ENSG00000138604 to official gene symbol.,GLCE,PSMB10,0.0,False
+257,Gene name conversion,Convert ENSG00000174233 to official gene symbol.,ADCY6,PSMB10,0.0,False
+258,Gene name conversion,Convert ENSG00000165487 to official gene symbol.,MICU2,PSMB10,0.0,False
+259,Gene name conversion,Convert ENSG00000124157 to official gene symbol.,SEMG2,PSMB10,0.0,False
+260,Gene name conversion,Convert ENSG00000182885 to official gene symbol.,ADGRG3,PSMB10,0.0,False
+261,Gene name conversion,Convert ENSG00000128322 to official gene symbol.,IGLL1,PSMB10,0.0,False
+262,Gene name conversion,Convert ENSG00000103199 to official gene symbol.,ZNF500,PSMB10,0.0,False
+263,Gene name conversion,Convert ENSG00000148824 to official gene symbol.,MTG1,PSMB10,0.0,False
+264,Gene name conversion,Convert ENSG00000188343 to official gene symbol.,CIBAR1,PSMB10,0.0,False
+265,Gene name conversion,Convert ENSG00000077984 to official gene symbol.,CST7,PSMB10,0.0,False
+266,Gene name conversion,Convert ENSG00000117528 to official gene symbol.,ABCD3,PSMB10,0.0,False
+267,Gene name conversion,Convert ENSG00000135338 to official gene symbol.,LCA5,PSMB10,0.0,False
+268,Gene name conversion,Convert ENSG00000139370 to official gene symbol.,SLC15A4,PSMB10,0.0,False
+269,Gene name conversion,Convert ENSG00000170209 to official gene symbol.,ANKK1,PSMB10,0.0,False
+270,Gene name conversion,Convert ENSG00000198681 to official gene symbol.,MAGEA1,PSMB10,0.0,False
+271,Gene name conversion,Convert ENSG00000078549 to official gene symbol.,ADCYAP1R1,PSMB10,0.0,False
+272,Gene name conversion,Convert ENSG00000091592 to official gene symbol.,NLRP1,IL17RA,0.0,False
+273,Gene name conversion,Convert ENSG00000148680 to official gene symbol.,HTR7,PSMB10,0.0,False
+274,Gene name conversion,Convert ENSG00000183943 to official gene symbol.,PRKX,PSMB10,0.0,False
+275,Gene name conversion,Convert ENSG00000160791 to official gene symbol.,CCR5,PSMB10,0.0,False
+276,Gene name conversion,Convert ENSG00000162849 to official gene symbol.,KIF26B,PSMB10,0.0,False
+277,Gene name conversion,Convert ENSG00000147202 to official gene symbol.,DIAPH2,PSMB10,0.0,False
+278,Gene name conversion,Convert ENSG00000117586 to official gene symbol.,TNFSF4,PSMB10,0.0,False
+279,Gene name conversion,Convert ENSG00000168591 to official gene symbol.,TMUB2,PSMB10,0.0,False
+280,Gene name conversion,Convert ENSG00000129474 to official gene symbol.,AJUBA,NFE2L2,0.0,False
+281,Gene name conversion,Convert ENSG00000172009 to official gene symbol.,THOP1,PSMB10,0.0,False
+282,Gene name conversion,Convert ENSG00000189157 to official gene symbol.,FAM47E,PSMB10,0.0,False
+283,Gene name conversion,Convert ENSG00000196586 to official gene symbol.,MYO6,PSMB10,0.0,False
+284,Gene name conversion,Convert ENSG00000203783 to official gene symbol.,PRR9,MT-ND6,0.0,False
+285,Gene name conversion,Convert ENSG00000126500 to official gene symbol.,FLRT1,PSMB10,0.0,False
+286,Gene name conversion,Convert ENSG00000010404 to official gene symbol.,IDS,PSMB10,0.0,False
+287,Gene name conversion,Convert ENSG00000182022 to official gene symbol.,CHST15,PSMB10,0.0,False
+288,Gene name conversion,Convert ENSG00000177051 to official gene symbol.,FBXO46,PSMB10,0.0,False
+289,Gene name conversion,Convert ENSG00000172296 to official gene symbol.,SPTLC3,PSMB10,0.0,False
+290,Gene name conversion,Convert ENSG00000120738 to official gene symbol.,EGR1,PSMB10,0.0,False
+291,Gene name conversion,Convert ENSG00000169548 to official gene symbol.,ZNF280A,PSMB10,0.0,False
+292,Gene name conversion,Convert ENSG00000153060 to official gene symbol.,TEKT5,PSMB10,0.0,False
+293,Gene name conversion,Convert ENSG00000176222 to official gene symbol.,ZNF404,PSMB10,0.0,False
+294,Gene name conversion,Convert ENSG00000168970 to official gene symbol.,JMJD7-PLA2G4B,PSMB10,0.0,False
+295,Gene name conversion,Convert ENSG00000185883 to official gene symbol.,ATP6V0C,PSMB10,0.0,False
+296,Gene name conversion,Convert ENSG00000240694 to official gene symbol.,PNMA2,MT-ND6,0.0,False
+297,Gene name conversion,Convert ENSG00000167664 to official gene symbol.,TMIGD2,RELN,0.0,False
+298,Gene name conversion,Convert ENSG00000243660 to official gene symbol.,ZNF487,AL627309.1,0.0,False
+299,Gene name conversion,Convert ENSG00000132205 to official gene symbol.,EMILIN2,PSMB10,0.0,False
+300,Protein-coding genes,Is ATP5F1EP2 a protein-coding gene?,NA,"No, ATP5F1EP2 is not a protein-coding gene; it is a pseudogene.",1.0,True
+301,Protein-coding genes,Is LOC124907753 a protein-coding gene?,NA,"Yes, LOC124907753 is a protein-coding gene.",1.0,True
+302,Protein-coding genes,Is AMD1P4 a protein-coding gene?,NA,"No, AMD1P4 is not a protein-coding gene; it is a pseudogene.",1.0,True
+303,Protein-coding genes,Is NODAL a protein-coding gene?,TRUE,"Yes, NODAL is a protein-coding gene.",1.0,True
+304,Protein-coding genes,Is MIR4436B2 a protein-coding gene?,NA,"No, MIR4436B2 is not a protein-coding gene; it is a microRNA gene.",1.0,True
+305,Protein-coding genes,Is NAXE a protein-coding gene?,TRUE,"Yes, NAXE is a protein-coding gene.",1.0,True
+306,Protein-coding genes,Is LOC124909477 a protein-coding gene?,NA,"No, LOC124909477 is not a protein-coding gene.",1.0,True
+307,Protein-coding genes,Is LINC01560 a protein-coding gene?,NA,"No, LINC01560 is not a protein-coding gene. It is classified as a long intergenic non-protein coding RNA.",1.0,True
+308,Protein-coding genes,Is UCKL1-AS1 a protein-coding gene?,NA,"No, UCKL1-AS1 is classified as a long non-coding RNA (lncRNA) gene.",1.0,True
+309,Protein-coding genes,Is MIR6843 a protein-coding gene?,NA,"No, MIR6843 is not a protein-coding gene; it is a microRNA gene.",1.0,True
+310,Protein-coding genes,Is RPL7AP58 a protein-coding gene?,NA,"No, RPL7AP58 is not a protein-coding gene; it is a pseudogene.",1.0,True
+311,Protein-coding genes,Is SERF2 a protein-coding gene?,TRUE,"Yes, SERF2 is a protein-coding gene.",1.0,True
+312,Protein-coding genes,Is LOC124907937 a protein-coding gene?,NA,"Yes, LOC124907937 is a protein-coding gene.",1.0,True
+313,Protein-coding genes,Is RNU6-1193P a protein-coding gene?,NA,"No, RNU6-1193P is not a protein-coding gene; it is classified as a pseudogene.",1.0,True
+314,Protein-coding genes,Is LOC124903168 a protein-coding gene?,NA,"No, LOC124903168 is not a protein-coding gene; it is annotated as a non-coding RNA gene.",1.0,True
+315,Protein-coding genes,Is HMGB1P9 a protein-coding gene?,NA,"No, HMGB1P9 is not a protein-coding gene; it is a pseudogene.",1.0,True
+316,Protein-coding genes,Is LOC100420990 a protein-coding gene?,NA,"No, LOC100420990 is not a protein-coding gene. It is annotated as a pseudogene.",1.0,True
+317,Protein-coding genes,Is RNU6-1212P a protein-coding gene?,NA,"No, RNU6-1212P is not a protein-coding gene. It is a pseudogene for a small nuclear RNA.",1.0,True
+318,Protein-coding genes,Is CPVL-AS2 a protein-coding gene?,NA,"No, CPVL-AS2 is not a protein-coding gene; it is classified as a long non-coding RNA (lncRNA) gene.",1.0,True
+319,Protein-coding genes,Is NPFFR1 a protein-coding gene?,TRUE,"Yes, NPFFR1 is a protein-coding gene.",1.0,True
+320,Protein-coding genes,Is CYP4F10P a protein-coding gene?,NA,"No, CYP4F10P is not a protein-coding gene; it is a pseudogene.",1.0,True
+321,Protein-coding genes,Is FANCG a protein-coding gene?,TRUE,"Yes, FANCG is a protein-coding gene.",1.0,True
+322,Protein-coding genes,Is CMKLR2 a protein-coding gene?,TRUE,"No, CMKLR2 is not a recognized official protein-coding gene symbol in NCBI. It does not correspond to a known protein-coding gene.",1.0,True
+323,Protein-coding genes,Is SSBP3-AS1 a protein-coding gene?,NA,"No, SSBP3-AS1 is not a protein-coding gene; it is classified as a long non-coding RNA (lncRNA).",1.0,True
+324,Protein-coding genes,Is LOC100419835 a protein-coding gene?,NA,"No, LOC100419835 is not a protein-coding gene; it is classified as a pseudogene.",1.0,True
+325,Protein-coding genes,Is RNU7-171P a protein-coding gene?,NA,"No, RNU7-171P is not a protein-coding gene; it is classified as a pseudogene.",1.0,True
+326,Protein-coding genes,Is RPL34P34 a protein-coding gene?,NA,"No, RPL34P34 is a pseudogene and not a protein-coding gene.",1.0,True
+327,Protein-coding genes,Is LOC100526841 a protein-coding gene?,NA,"No, LOC100526841 is not a protein-coding gene; it is classified as a pseudogene.",1.0,True
+328,Protein-coding genes,Is TTLL1 a protein-coding gene?,TRUE,"Yes, TTLL1 is a protein-coding gene.",1.0,True
+329,Protein-coding genes,Is CORO1A-AS1 a protein-coding gene?,NA,"No, CORO1A-AS1 is classified as a non-coding RNA gene.",1.0,True
+330,Protein-coding genes,Is SPARC a protein-coding gene?,TRUE,"Yes, SPARC is a protein-coding gene.",1.0,True
+331,Protein-coding genes,Is LOC100129457 a protein-coding gene?,NA,"No, LOC100129457 is not a protein-coding gene; it is classified as a long non-coding RNA (lncRNA) gene.",1.0,True
+332,Protein-coding genes,Is HOTAIR a protein-coding gene?,NA,"No, HOTAIR is not a protein-coding gene; it is a long non-coding RNA gene.",1.0,True
+333,Protein-coding genes,Is CAAP1 a protein-coding gene?,TRUE,"Yes, CAAP1 is a protein-coding gene.",1.0,True
+334,Protein-coding genes,Is PIGCP1 a protein-coding gene?,NA,"No, PIGCP1 is not recognized as a protein-coding gene.",1.0,True
+335,Protein-coding genes,Is LINC01054 a protein-coding gene?,NA,"No, LINC01054 is not a protein-coding gene; it is a long non-coding RNA (lncRNA) gene.",1.0,True
+336,Protein-coding genes,Is SPOP a protein-coding gene?,TRUE,"Yes, SPOP is a protein-coding gene.",1.0,True
+337,Protein-coding genes,Is RNU6-746P a protein-coding gene?,NA,"No, RNU6-746P is not a protein-coding gene. It is a pseudogene for a small nuclear RNA.",1.0,True
+338,Protein-coding genes,Is POLE4P1 a protein-coding gene?,NA,"No, POLE4P1 is a pseudogene and not a protein-coding gene.",1.0,True
+339,Protein-coding genes,Is RASSF3-DT a protein-coding gene?,NA,"No, RASSF3-DT is not a protein-coding gene; it is classified as a long non-coding RNA (lncRNA) gene.",1.0,True
+340,Protein-coding genes,Is RPL31P19 a protein-coding gene?,NA,"No, RPL31P19 is not a protein-coding gene; it is a pseudogene.",1.0,True
+341,Protein-coding genes,Is FBXO3-DT a protein-coding gene?,NA,"No, FBXO3-DT is not a protein-coding gene; it is classified as a long non-coding RNA (lncRNA) gene.",1.0,True
+342,Protein-coding genes,Is DNAJB6P2 a protein-coding gene?,NA,"No, DNAJB6P2 is a pseudogene and not a protein-coding gene.",1.0,True
+343,Protein-coding genes,Is LINC02865 a protein-coding gene?,NA,"No, LINC02865 is not a protein-coding gene; it is classified as a long non-coding RNA (lncRNA).",1.0,True
+344,Protein-coding genes,Is AFF1 a protein-coding gene?,TRUE,"Yes, AFF1 is a protein-coding gene.",1.0,True
+345,Protein-coding genes,Is PWWP2A a protein-coding gene?,TRUE,"Yes, PWWP2A is a protein-coding gene.",1.0,True
+346,Protein-coding genes,Is LOC105369759 a protein-coding gene?,NA,"No, LOC105369759 is not a protein-coding gene; it is classified as a long non-coding RNA (lncRNA) gene.",1.0,True
+347,Protein-coding genes,Is B3GAT1 a protein-coding gene?,TRUE,"Yes, B3GAT1 is a protein-coding gene.",1.0,True
+348,Protein-coding genes,Is MIR22HG a protein-coding gene?,NA,"No, MIR22HG is not a protein-coding gene; it is a long non-coding RNA gene.",1.0,True
+349,Protein-coding genes,Is CGGBP1 a protein-coding gene?,TRUE,"Yes, CGGBP1 is a protein-coding gene.",1.0,True
+350,Gene SNP association,Which gene is SNP rs1217074595 associated with?,LINC01270,IDUA,0.0,False
+351,Gene SNP association,Which gene is SNP rs1241371358 associated with?,LRRC23,HLA-DRB1,0.0,False
+352,Gene SNP association,Which gene is SNP rs1481036795 associated with?,SEPTIN11,COL6A6,0.0,False
+353,Gene SNP association,Which gene is SNP rs1318850293 associated with?,PLEKHG7,LCT,0.0,False
+354,Gene SNP association,Which gene is SNP rs996319727 associated with?,USP39,The SNP rs996319727 is associated with the gene ZNF804B.,0.0,False
+355,Gene SNP association,Which gene is SNP rs577757681 associated with?,OXR1,The SNP rs577757681 is associated with the gene PSMB10.,0.0,False
+356,Gene SNP association,Which gene is SNP rs1294482311 associated with?,DMXL1,SNP rs1294482311 is associated with the TGM1 gene.,0.0,False
+357,Gene SNP association,Which gene is SNP rs979970652 associated with?,KHDRBS2,The SNP rs979970652 is associated with the PSMB10 gene.,0.0,False
+358,Gene SNP association,Which gene is SNP rs1029002401 associated with?,MAJIN,FTO,0.0,False
+359,Gene SNP association,Which gene is SNP rs1015227 associated with?,SCHLAP1,SLC45A2,0.0,False
+360,Gene SNP association,Which gene is SNP rs1278530438 associated with?,LDLRAD4,RBMS3,0.0,False
+361,Gene SNP association,Which gene is SNP rs745325402 associated with?,CALCR,The SNP rs745325402 is associated with the SLC4A1 gene.,0.0,False
+362,Gene SNP association,Which gene is SNP rs4704888 associated with?,SGCD,The SNP rs4704888 is associated with the gene PSMB10.,0.0,False
+363,Gene SNP association,Which gene is SNP rs1201372088 associated with?,ZBTB25,The SNP rs1201372088 is associated with the gene OR4F5.,0.0,False
+364,Gene SNP association,Which gene is SNP rs1324451169 associated with?,MED26,The SNP rs1324451169 is associated with the gene LINC00587.,0.0,False
+365,Gene SNP association,Which gene is SNP rs983419152 associated with?,LINC02055,The SNP rs983419152 is associated with the PSMB10 gene.,0.0,False
+366,Gene SNP association,Which gene is SNP rs745940901 associated with?,JMJD1C,The SNP rs745940901 is associated with the gene ABCC8.,0.0,False
+367,Gene SNP association,Which gene is SNP rs1303680136 associated with?,XKR9,KCNN4,0.0,False
+368,Gene SNP association,Which gene is SNP rs1053827498 associated with?,NSMCE1,PNPT1,0.0,False
+369,Gene SNP association,Which gene is SNP rs1350154096 associated with?,LOC107986092,NIPA1,0.0,False
+370,Gene SNP association,Which gene is SNP rs1037441458 associated with?,LOC105372191,The SNP rs1037441458 is associated with the gene PSMB10.,0.0,False
+371,Gene SNP association,Which gene is SNP rs900408143 associated with?,RBFOX1,FYCO1,0.0,False
+372,Gene SNP association,Which gene is SNP rs900532834 associated with?,PAK1,The SNP rs900532834 is associated with the PSMB10 gene.,0.0,False
+373,Gene SNP association,Which gene is SNP rs1281200566 associated with?,CCT8L2,The SNP rs1281200566 is associated with the gene PSMB10.,0.0,False
+374,Gene SNP association,Which gene is SNP rs1431266687 associated with?,CACNB2,SPEN,0.0,False
+375,Gene SNP association,Which gene is SNP rs900745020 associated with?,CREB5,The SNP rs900745020 is associated with the gene PSMB10.,0.0,False
+376,Gene SNP association,Which gene is SNP rs1188606225 associated with?,GAREM1,The SNP rs1188606225 is associated with the gene ZNF804B.,0.0,False
+377,Gene SNP association,Which gene is SNP rs902730377 associated with?,LOC105372323,The SNP rs902730377 is associated with the HLA-DQA1 gene.,0.0,False
+378,Gene SNP association,Which gene is SNP rs1044115387 associated with?,GLIS3,The SNP rs1044115387 is associated with the gene MYO15A.,0.0,False
+379,Gene SNP association,Which gene is SNP rs979980368 associated with?,FAM53B,SNP rs979980368 is associated with the AOX1 gene.,0.0,False
+380,Gene SNP association,Which gene is SNP rs1161130206 associated with?,EMX2OS,SNP rs1161130206 is associated with the gene KIF26B.,0.0,False
+381,Gene SNP association,Which gene is SNP rs910422326 associated with?,ANKFN1,PSMB10,0.0,False
+382,Gene SNP association,Which gene is SNP rs1035892430 associated with?,TSPAN15,DPP6,0.0,False
+383,Gene SNP association,Which gene is SNP rs1255093658 associated with?,TENM3,SNP rs1255093658 is associated with the PSMB10 gene.,0.0,False
+384,Gene SNP association,Which gene is SNP rs1257276516 associated with?,LOC100506403,COX6B1,0.0,False
+385,Gene SNP association,Which gene is SNP rs563369098 associated with?,LINC01673,SLC6A19,0.0,False
+386,Gene SNP association,Which gene is SNP rs1032834815 associated with?,FNDC3B,SNP rs1032834815 is associated with the HBB gene.,0.0,False
+387,Gene SNP association,Which gene is SNP rs552952471 associated with?,RARB,The SNP rs552952471 is associated with the gene PSMB10.,0.0,False
+388,Gene SNP association,Which gene is SNP rs1452964195 associated with?,LINC03021,The SNP rs1452964195 is associated with the gene ZNF814.,0.0,False
+389,Gene SNP association,Which gene is SNP rs949202492 associated with?,NECAB2,The SNP rs949202492 is associated with the HLA-DQA1 gene.,0.0,False
+390,Gene SNP association,Which gene is SNP rs1218214598 associated with?,MIR4527HG,The SNP rs1218214598 is associated with the gene NIPBL.,0.0,False
+391,Gene SNP association,Which gene is SNP rs1022906840 associated with?,CCDC178,The SNP rs1022906840 is associated with the gene ABCB1.,0.0,False
+392,Gene SNP association,Which gene is SNP rs1199372758 associated with?,RUBCN,The SNP rs1199372758 is associated with the gene HCG4.,0.0,False
+393,Gene SNP association,Which gene is SNP rs1396355441 associated with?,PTPRB,The SNP rs1396355441 is associated with the PDPK1 gene.,0.0,False
+394,Gene SNP association,Which gene is SNP rs1432624213 associated with?,SLC22A14,SNP rs1432624213 is associated with the GUCY2C gene.,0.0,False
+395,Gene SNP association,Which gene is SNP rs937944577 associated with?,IFFO1,SNP rs937944577 is associated with the gene TRIM63.,0.0,False
+396,Gene SNP association,Which gene is SNP rs1450106117 associated with?,MED13,SNP rs1450106117 is associated with the gene PSMB10.,0.0,False
+397,Gene SNP association,Which gene is SNP rs34083046 associated with?,MICU1,DLGAP2,0.0,False
+398,Gene SNP association,Which gene is SNP rs149916046 associated with?,LINC02841,SNP rs149916046 is associated with the PSMB10 gene.,0.0,False
+399,Gene SNP association,Which gene is SNP rs1385096481 associated with?,LRFN5,The SNP rs1385096481 is associated with the gene SLC18A2.,0.0,False
+400,SNP location,Which chromosome does SNP rs1430464868 locate on human genome?,chr13,rs1430464868 is located on chromosome 16 in the human genome.,0.0,False
+401,SNP location,Which chromosome does SNP rs545148486 locate on human genome?,chr16,Chromosome 16.,1.0,True
+402,SNP location,Which chromosome does SNP rs895485955 locate on human genome?,chr19,rs895485955 is located on chromosome 15 in the human genome.,0.0,False
+403,SNP location,Which chromosome does SNP rs1376217783 locate on human genome?,chr11,Chromosome 7,0.0,False
+404,SNP location,Which chromosome does SNP rs1420724913 locate on human genome?,chr16,Chromosome 18,0.0,False
+405,SNP location,Which chromosome does SNP rs992486373 locate on human genome?,chr15,Chromosome 1,0.0,False
+406,SNP location,Which chromosome does SNP rs975300764 locate on human genome?,chr4,Chromosome 17,0.0,False
+407,SNP location,Which chromosome does SNP rs993131098 locate on human genome?,chr14,Chromosome 4,0.0,False
+408,SNP location,Which chromosome does SNP rs899883800 locate on human genome?,chr1,Chromosome 13,0.0,False
+409,SNP location,Which chromosome does SNP rs547832386 locate on human genome?,chr15,Chromosome 10.,0.0,False
+410,SNP location,Which chromosome does SNP rs1212113267 locate on human genome?,chr22,Chromosome 16.,0.0,False
+411,SNP location,Which chromosome does SNP rs1435895561 locate on human genome?,chr19,Chromosome 6,0.0,False
+412,SNP location,Which chromosome does SNP rs427884 locate on human genome?,chr11,Chromosome 16,0.0,False
+413,SNP location,Which chromosome does SNP rs1188706680 locate on human genome?,chr4,SNP rs1188706680 is located on chromosome 17 in the human genome.,0.0,False
+414,SNP location,Which chromosome does SNP rs1316126938 locate on human genome?,chr18,Chromosome 15,0.0,False
+415,SNP location,Which chromosome does SNP rs1398189587 locate on human genome?,chr4,Chromosome 7,0.0,False
+416,SNP location,Which chromosome does SNP rs1372020525 locate on human genome?,chr14,Chromosome 16.,0.0,False
+417,SNP location,Which chromosome does SNP rs188137472 locate on human genome?,chr17,Chromosome 1,0.0,False
+418,SNP location,Which chromosome does SNP rs1246801490 locate on human genome?,chr18,Chromosome 16,0.0,False
+419,SNP location,Which chromosome does SNP rs983633514 locate on human genome?,chr8,Chromosome 6,0.0,False
+420,SNP location,Which chromosome does SNP rs1274126968 locate on human genome?,chr14,Chromosome 18.,0.0,False
+421,SNP location,Which chromosome does SNP rs1392348488 locate on human genome?,chr22,Chromosome 1,0.0,False
+422,SNP location,Which chromosome does SNP rs965556407 locate on human genome?,chr4,Chromosome 1,0.0,False
+423,SNP location,Which chromosome does SNP rs999510594 locate on human genome?,chr16,Chromosome 21.,0.0,False
+424,SNP location,Which chromosome does SNP rs1412275115 locate on human genome?,chr17,Chromosome 11,0.0,False
+425,SNP location,Which chromosome does SNP rs951388492 locate on human genome?,chr14,Chromosome 16,0.0,False
+426,SNP location,Which chromosome does SNP rs967011458 locate on human genome?,chr4,Chromosome 16.,0.0,False
+427,SNP location,Which chromosome does SNP rs555675816 locate on human genome?,chr8,Chromosome 6,0.0,False
+428,SNP location,Which chromosome does SNP rs1333853138 locate on human genome?,chr22,Chromosome 6,0.0,False
+429,SNP location,Which chromosome does SNP rs910383316 locate on human genome?,chr1,Chromosome 16.,0.0,False
+430,SNP location,Which chromosome does SNP rs563617526 locate on human genome?,chr11,Chromosome 17.,0.0,False
+431,SNP location,Which chromosome does SNP rs1357251061 locate on human genome?,chr21,Chromosome 4,0.0,False
+432,SNP location,Which chromosome does SNP rs1401416674 locate on human genome?,chr10,Chromosome 16.,0.0,False
+433,SNP location,Which chromosome does SNP rs76491275 locate on human genome?,chr21,Chromosome 13,0.0,False
+434,SNP location,Which chromosome does SNP rs141272872 locate on human genome?,chr3,Chromosome 16,0.0,False
+435,SNP location,Which chromosome does SNP rs1281763211 locate on human genome?,chr4,Chromosome 3.,0.0,False
+436,SNP location,Which chromosome does SNP rs1278117191 locate on human genome?,chr20,Chromosome 5.,0.0,False
+437,SNP location,Which chromosome does SNP rs1239675264 locate on human genome?,chr21,Chromosome 2,0.0,False
+438,SNP location,Which chromosome does SNP rs866998836 locate on human genome?,chr17,Chromosome 22.,0.0,False
+439,SNP location,Which chromosome does SNP rs1228002921 locate on human genome?,chr2,rs1228002921 is located on chromosome 11 of the human genome.,0.0,False
+440,SNP location,Which chromosome does SNP rs976400036 locate on human genome?,chr19,Chromosome 16.,0.0,False
+441,SNP location,Which chromosome does SNP rs397784008 locate on human genome?,chr15,Chromosome 6,0.0,False
+442,SNP location,Which chromosome does SNP rs1170945868 locate on human genome?,chr22,SNP rs1170945868 is located on chromosome 4 of the human genome.,0.0,False
+443,SNP location,Which chromosome does SNP rs990783431 locate on human genome?,chr3,Chromosome 4,0.0,False
+444,SNP location,Which chromosome does SNP rs1041819671 locate on human genome?,chr5,Chromosome 2,0.0,False
+445,SNP location,Which chromosome does SNP rs139642661 locate on human genome?,chr14,SNP rs139642661 is located on chromosome 7 of the human genome.,0.0,False
+446,SNP location,Which chromosome does SNP rs1263053296 locate on human genome?,chr14,Chromosome 1,0.0,False
+447,SNP location,Which chromosome does SNP rs1391145256 locate on human genome?,chr12,Chromosome 2.,0.0,False
+448,SNP location,Which chromosome does SNP rs1002944049 locate on human genome?,chr9,Chromosome 4,0.0,False
+449,SNP location,Which chromosome does SNP rs962314907 locate on human genome?,chr5,Chromosome 7,0.0,False

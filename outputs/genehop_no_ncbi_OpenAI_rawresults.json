@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 0,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:GTAGATGGAACTGGTAGTCAGCTGGAGAGCAGCATGGAGGCGTCCTGGGGGAGCTTCAACGCTGAGCGGGGCTGGTATGTCTCTGTCCAGCAGCCTGAAGAAGCGGAGGCCGA. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 1,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:ATTGTGAGAGTAACCAACGTGGGGTTACGGGGGAGAATCTGGAGAGAAGAGAAGAGGTTAACAACCCTCCCACTTCCTGGCCACCCCCCTCCACCTTTTCTGGTAAGGAGCCC. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 2,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:GGAAGAGGCCCCAGCACTGACCTCCGTGGGGGTGGAGATGAGGAGGATGGAAAGGGTGTCTTCCTCCAGCATCTTCCTGAAGGTGAAGGAGGGGCACCTTGGGGTGTCTAAGA. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 3,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:GCACACGTACGTTCCTCATGAAAGGGACGACGGGAGCTGCATGAAAGCCGAAGTTATGGACCGCTAGCATCTGTCACTGGCCACCGGTTTCCGGGAGTAAGCGGCAGCTACCT. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 4,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:AGACGTGAAGCCTAGCAGAGGACTTTTTAGCTGCTCACTGGCCCCGCTTGTCTGGCCGACTCATCCGCCCGCGACCCCTAATCCCCTCTGCCTGCCCCAAGATGCTGAAGCCA. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 5,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:ACTTCCAACATGGCGGCGGCCGGGGCGGCGGTGGCGCGCAGCCCGGGAATCGGAGCGGGACCTGCGCTGAGAGCCCGGCGCTCGCCCCCGCCGCGGGCCGCACGGCTGCCGCG. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 6,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:ACTAGCCCCAAGAACAAAAGAGGCACAGGTGGGAACAACTCTCCCAAAACCAGGACTGGGAGCATGGCCAAACTTCATAGTGAGCTTACTTGCCTCTGACACACAAGGCAGCA. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 7,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:GCCGGCGCGCTTGCGCAGTAGCTGAACGCGGGCGTTTCTTTCCTCCCTTTTTTTCGAATTGGTTTTGGGGGTAGATTCGAGTTACAAAATGGCCGCCCGGAGCGTGTTCGGCG. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 8,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:ATGCTTCATTACACCCTTCATGGAAGCTGGCACACTCGCCCCACCCTCGTTTTCCACGGGCCAGTCTTGGAGGAAAAGGCCAGCAGGTAGGTTCCCAGGGCACGGAGATGATG. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 9,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:GCTTACGCCACGGCGTCTGCTGGCGGCCGCGGAGACGCAGAGTCTTGAGCAGCGCGGCAGGTGAGTAGCTGTGCGAATTCGGTTCTCTAGGGAGCTCCTTCTTCGCCTGCTGG. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 10,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:AGAAGAGCCAAAACAGGAACCGAGGTGGCAAATCACTGTGCGAGGGCGAGTGGACCTCCCTCTTTGCCTCCTCCCTGTTCCAGGAGCTGGTGCCCTGGGCTCTGCGCTGTTGT. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 11,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:CTTCCAGGCTAAGTCCATCTTCCGGCTTGGGCAGACGCTGCCGCGGAATCCTTGACTCTAGTTTTCTGAGTCGGTGAGTGAGTGCAAAGTAGATTCCTCAGGTGGAGGGTGCC. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 12,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:CCTTTTAGTATCCAATTATCTGAAACTTAAGAAGAGTGTGCACCGCCCAATGGGTGTGTGTATGTGCTGCTTTGAACCTATAGTTGAGATCCAGAGAATTGGGAGTGACATCA. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 13,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:AGGCTACCAAAGTCGCTGGTAGCCTGGACCCTGAGTTCACCGATCCTTCCTACTCAGTAATATCTACAGGTAAGTCCAAAGGGAAATTGCTTTGGGAATCTGACAATTTAACT. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 14,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:ATCTGCTCTGACTTCCCCAGGACGTGTCTGTGCTCCTGTGTGTGACCAGGGTGAGTGGCAACCTGGGAGCCAGAGGGCACAGGGGAATGGGAAGATTAAGGGAGGCTTCAGAG. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 15,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:AGAGCCCAGCCCAGCACGGTCTCCGGGGATGTAGCTGGTGGGACAGTGAGCAGAGGGCTGGGCCCTGTGCCTGGGGACTGTGGCCTGGAGGCTGAGCAGGAGCTGAGGAGGGG. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 16,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:GCACAAGCCGGCCTTGAAATCAGAGCCTTTCCAGCAACTCCGAGAGCGTGTGCTCGGCGACCGCGGGCTTGGCCAGCGGCGCGCGCTCGGCGCCCCGGCGCCCCCAGCCCCAC. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 17,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:AGTTGGCCGCTCCGGCCTGTGGGGCTACATCCCTGCTGCCGGCCAGGCGCGGCCCGCGGGACCCCGAGTGTAGCGCCATGGCCCGGGAGAGGCCGCCCGGGAGGGGCTGCGGC. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 18,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:GCATTGTGGGTTCTCCTGGAGCTGTGGAGTTGATCCTGAATGAAAGTGGCGCGCCGCCCCTGACGTTACCCGGATCGGAGAGGTTGGAATTCAGATTACGGCTGCGATTCGGG. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 19,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:CTTCCCCAAGCCAACGTCTCCGCCGTCGGCTCCGCGGCGCCGCCATGGCCGACGTGGAAGACGGAGAGGAAACCTGCGCCCTGGCCTCTCACTCCGGGAGCTCAGGCTCCAAG. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 20,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:AAGACTGCGAGCTCCCCGCACCCCCTCGCACTCCCTCTGGCCGGCCCAGGGCGCCTTCAGCCCAACCTCCCCAGCCCCACGGGCGCCACGGAACCCGCTCGATCTCGCCGCCA. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 21,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:AGCTCCCCGCCGGGCTCGCGCCGCAGAGGCCGGTGAGGCGCCGGCGGCCACGCCGCGGAAGGCGCGGGCCGAGCAGAGCCGGGCGTTGGAGCCCGCGCGCGCATGGAGGCGTT. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 22,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:AGATCTGCTTCTCCCCGGCTCGGGGCGCCGAGGCGGCGTCCGGGAGGTGTCTTCTGCAAAGGTTGCCTGGCGCTGTCCAACATGGAGGAGGCACCGGCAGCGGGCGTTACCTG. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 23,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:CATGGCCACCCCTGCAGCAGTTACAACACTAAGAGCTCGTTCTTTTGCATCCTCTGTAAGTCCCAGGGCCAAGGGAGGGGAGCCTAGGCTATATTGGACCTAGATAGGAAGAG. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 24,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:GGGACTTTGCAGGCAGCGGCGGCCGGGGGCGGAGCGGGATCGAGCCCTCGCCGAGGCCTGCCGCCATGGGCCCGCGCCGCCGCCGCCGCCTGTCACCCGGGCCGCGCGGGCCG. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 25,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:CTCTTTCTTAAGTCATTCGAAACACTGTCCCTGCGAGTTCTTTAAGTTCCCTGCAATCTGTACACAAGAGAAAGAGGGAGAGAGAGAGGGAGAGAGACAGAGAGAGCAGGGAT. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 26,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:AGAAGGAGCGAAACATCTTTGAGCAAGATGGGTCTCTACCGCATCCGCGTGTCCACTGGGGCCTCGCTCTATGCCGGTTCCAACAACCAGGTGCAGCTGTGGCTGGTCGGCCA. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 27,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:CCCGCGCGGTAGCAGCCAACGCCGGCCCCAGGCGGGTGCGCTGGGAGCCTGGGCCGGGAGCCGGGTGAGGGCGCCGAGAGGCTCGGTGGGCGCGGGCGGCGAGGTGAGCTGGG. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 28,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:AGATTTGCTCTGATTCTGACAATGCAGTGGGTATCAGAGCTCAGGTCCAGAGGAAAAGCCTGGAGTGAGTGAGGCTGCGAGCTTCCTCTTCAGAACTCTGCATGCTTATCGGG. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 29,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:AGAACTCTGCGCTACTGCCCACGCATCTCACAAAGTCTACTACGCCGCGCGTTCTCGGTTTCAACGCACCTCCAGGATTCAGGGCTTCCTAAGCTGCAATTCAGCAGGGCTCC. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 30,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:AGCGGGAAGACCATCTCTGCAAGTGCAGCATAGCCTCGGCCTAGGACAGCGGGAGTGCGTGGCCAAAGCTGTGAGCAGAGGCACAGGTGGTGGCAGACAGTAGAGGCGCCCCA. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 31,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:GTCGGCCCTGCGGGCCTCTCTCCGTCGCCATGGAAACGAAAGCGGCCAAGTAGAGCTCCGTCCTGACGCGCCGCCTCCCGTGGGCTCCGGCCGGCTAAGCCGCGGCGGACAAC. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 32,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:AGTCAAGTGACGCGAAGCGGCCGGCCTGGGCGCCGACTGCAGAGCCGGGAGGCTGGTGGTCATGCCGGGGTTCCTGGTTCGCATCCTCCCTCTGTTGCTGGTTCTGCTGCTTC. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 33,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:GTTTTTCAGCTCACTTCAAGGGTACCTGAAGCGAATTGGCACCAAAGCAGCAGCTGTATTGCCGCAGTTCTAGCTTCACCTTCACGATGTTTCCCTTGGTCAAAAGCGCACTA. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 34,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:AGAGCGGCCCCGGAGCGGCCGCAGCGCGGTGGTCTCGGCCCGGCTGCGCCAGAGTCCGCGCGATGGAGCCCCGGCCGCGGCGGCGGCGCAGGAGTCGCCCCCTGGTCGCCGCC. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 35,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:ATGACGCGCGGCCGCGCCTGGGGGATGCGGCGGGCGGCGGCGGGGGCGGGCGGAGCGCGGGCGGCGGGGCCAACTGGGGGCGCCTCTCGCCTGCACCCCAATGCGGGACGCAG. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 36,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:ATCGATCACAGGCTCACAACGCCCTTCCATTCATCGCTCTTATTCCAGTCCTGGTTACTACCCCACTTCCTGACATCAAACCAGGGAGAACGCGAGTGTTAGTTAACATGGCT. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 37,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:GCCATTTTGGATTGTGTGAGTTTCCGGGACGTTCGGAGGGTGGCCTCTCTCCCACCGGGTTCCGCATACCCCAGGCACCGGCCCGCATCCAAGTGTCAGGTTGGAGCCGGGAA. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 38,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:GTTGTACAGAAAATTGCTGTTGGGATGAAGCTTTGCAGCCTTGCAGTCCTTGTACCCATTGTTCTCTTCTGTGAGCAGCATGTCTTCGCGTTTCAGAGGTAACCCAATAGAA. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 39,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:ATTACTCAGCTTTTCATCTGCTGTGTTGAAAGCCAACTTATCATTTTTCACATTATTGTATACATCTAAAAGACATCATAAACGAAGACTGGAAGTGAAAACTGAAAAACTGA. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 40,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:GTTTGTTTACTTGGCGAGACTTGGAGCTGAGGTCATTTGGAGCTGTTTAATACTGAAGAGCTGTTGAGCACTGGAAAGTGCTGTGTAACCCTGGAAAAGAACCGTGTAACGCT. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 41,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:AGCTGCCAGCACGCGCAGAAGGCGGACGCAGGCGGGGCGGAAGTGGGCCCGGCGGGCTGGGGCGGCGGGAGTGCGGGTGGGCGTTTAAAGGGGCCTTCGGCACCCAGGTCGGT. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 42,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:AGATGTGAGTCCTCAATGAGCTATAACCACAGCCATAAATATCTCTCAAAGATGAGGAACATTCTCATGATGTTGACACTGCAATTTTTTGACAATTTCCCAACACTCTTAAG. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 43,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:TCTTCCTCCAGCTGTTCCCACAGGCTCCATTATTCAAACTTTGGGGGAGGAAATCAGGGCTGGACAGATCATCAACTGCTGCTGCTGACAGACTGTGTTCCTGCCATGATGGG. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 44,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:CATTTCACCAGCCCAGGCTGGCTTCTGCTGTTGACTGGCTGTGGCACCTCAAGCAGCCCCTTTCCCCTCTAGCCTCAGTTTATCACCGCAAGAGCTACCATTCATCTAGCACA. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 45,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:ATGGCTTTGCCTAGAAGCCAAGGCCATTGGTCCAACAAAGACATCTTGAGGTTACTGGAATGCATGGAGAATAATCGCCCATCTGATGACAACAGCACGTTTAGCTCAACTCA. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 46,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:GCAGGCGCTGGCTGGCAGGTGTCGCTAACCGGACGGTGGTCGCCAGGGCGAGAGGCGGGAGCCGGAGAGGTGAGGCAGGACCCGGGCTCCACTGCCGCCTCTCCGAGCTCTTG. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 47,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:ACGTGGCCGGGGTGGGACCTCAGGCGACCTGCGACCATCACTTTGTCTCCTCCTTCCTCCTTTGGGGCCGCCACCGCCAATCAGAGCCAGCGGATCCTGGTTGGAGTGCGACC. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 48,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:AGGATTCCTGGAGTCTCCGGAGGGTGCCTTTGGCCTCTGGGATTCACCCGAGCCGTTGGCTTTTGCTCCCCCCACCCCACCCCCTGGCTTTTCTTGGCTTGGAGGGCAGCTGG. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 49,
+    "task": "sequence gene alias",
+    "question": "What are the aliases of the gene that contains this sequnece:ATGCTCAGTAGCCGCGGCGCTGCTGCTGGGCTGCTGGGCTGGCGCGGAGTCCACCCTGCCGTCTCCGCCTTGGCTTCTGGGCGTCCAGAAGGCCAGGCATTTGCCGCCTCTGA. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 0,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Hemolytic anemia due to phosphofructokinase deficiency. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 1,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Distal renal tubular acidosis. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 2,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Pseudohypoparathyroidism Ic. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 3,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Glycine N-methyltransferase deficiency. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 4,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Meesmann corneal dystrophy. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 5,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Chronic atrial and intestinal dysrhythmia. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 6,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Sensorineural deafness with mild renal dysfunction. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 7,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Bile acid malabsorption. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 8,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Immunodeficiency due to defect in MAPBP-interacting protein. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 9,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Currarino syndrome. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 10,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Intervertebral disc disease. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 11,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Otofaciocervical syndrome. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 12,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Brody myopathy. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 13,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Neurodevelopmental disorder with gait disturbance. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 14,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Mitochondrial DNA depletion syndrome 4A Alpers type. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 15,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Nephropathy due to CFHR5 deficiency. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 16,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Achromatopsia. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 17,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Hyperphenylalaninemia. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 18,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to EDICT syndrome. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 19,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Gastrointestinal defects and immunodeficiency syndrome. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 20,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Cleft palate with ankyloglossia. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 21,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Neurodevelopmental disorder with nonspecific brain abnormalities and with or without seizures. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 22,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Spondylocarpotarsal synostosis syndrome. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 23,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Haim-Munk syndrome. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 24,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Sialidosis. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 25,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Siddiqi syndrome. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 26,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Corneal fleck dystrophy. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 27,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Liver failure. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 28,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Proteasome-associated autoinflammatory syndrome. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 29,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Orofaciodigital syndrome XIV. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 30,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Trichoepithelioma. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 31,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Medullary thyroid carcinoma. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 32,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Type diabetes mellitus. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 33,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Buschke-Ollendorff syndrome. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 34,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Vascular malformation. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 35,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Acrocallosal syndrome. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 36,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Congenital disorder of deglycosylation. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 37,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Spinal muscular atrophy with congenital bone fractures. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 38,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to B-cell immunodeficiency. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 39,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Immunodeficiency with inflammatory disease and congenital thrombocytopenia. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 40,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Split-foot malformation with mesoaxial polydactyly. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 41,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Pigmented nodular adrenocortical disease. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 42,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Superoxide dismutase. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 43,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Leukoencephalopathy with dystonia and motor neuropathy. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 44,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Intracranial hemorrhage in brain cerebrovascular malformations. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 45,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Multiple system atrophy. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 46,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Cone dystrophy. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 47,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Holt-Oram syndrome. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 48,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Lichtenstein-Knorr syndrome. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 49,
+    "task": "Disease gene location",
+    "question": "List chromosome locations of the genes related to Ablepharon-macrostomia syndrome. Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 0,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs1217074595? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 1,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs1241371358? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 2,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs1481036795? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 3,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs1318850293? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 4,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs996319727? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 5,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs577757681? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 6,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs1294482311? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 7,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs979970652? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 8,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs1029002401? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 9,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs1015227? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 10,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs1278530438? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 11,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs745325402? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 12,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs4704888? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 13,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs1201372088? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 14,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs1324451169? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 15,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs983419152? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 16,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs745940901? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 17,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs1303680136? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 18,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs1053827498? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 19,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs1350154096? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 20,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs1037441458? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 21,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs900408143? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 22,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs900532834? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 23,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs1281200566? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 24,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs1431266687? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 25,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs900745020? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 26,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs1188606225? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 27,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs902730377? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 28,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs1044115387? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 29,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs979980368? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 30,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs1161130206? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 31,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs910422326? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 32,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs1035892430? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 33,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs1255093658? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 34,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs1257276516? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 35,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs563369098? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 36,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs1032834815? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 37,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs552952471? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 38,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs1452964195? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 39,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs949202492? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 40,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs1218214598? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 41,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs1022906840? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 42,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs1199372758? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 43,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs1396355441? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 44,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs1432624213? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 45,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs937944577? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 46,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs1450106117? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 47,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs34083046? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 48,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs149916046? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  },
+  {
+    "id": 49,
+    "task": "SNP gene function",
+    "question": "What is the function of the gene associated with SNP rs1385096481? Let's decompose the question to sub-questions and solve them step by step.",
+    "answer": "",
+    "explanation": "",
+    "success": false
+  }
+]
