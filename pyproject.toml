@@ -1,7 +1,7 @@
 [project]
 name = "module-3-materials"
 description = "Benchmarking and evaluating LLMs with principled software engineering techniques. Re-implementation of the GeneGPT paper."
-authors = ["Your Name <your.email@example.com>"]
+authors = ["Yuyan Liu <yuyan.liu@utsouthwestern.edu>"]
 requires-python = ">=3.12"
 
 [tool.black]
@@ -11,6 +11,12 @@ skip-string-normalization = false
 [tool.isort]
 profile = "black"
 
+[tool.flake8]
+max-line-length = 88                # stay consistent
+extend-ignore = ["E203", "W503"]    # also matches Black's opinions
+per-file-ignores = [
+  "__init__.py:F401",               # silence 'unused import' in package inits
+]
 [tool.mypy]
 python_version = "3.12"
 ignore_missing_imports = true

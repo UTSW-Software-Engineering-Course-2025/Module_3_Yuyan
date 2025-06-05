@@ -1,0 +1,6 @@
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0Warning: Failed to open the file data/geneturing.json: No such file or 
+Warning: directory
+ 17 45418   17  7978    0     0  22553      0  0:00:02 --:--:--  0:00:02 22536
+curl: (23) Failure writing output to destination
